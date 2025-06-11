@@ -1,0 +1,3722 @@
+{
+  "dados": {
+    "cpu_percent": [
+      {
+        "indice": 0,
+        "timestamp": "2023-11-04T00:00:00",
+        "valor": 42.92194,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 1,
+        "timestamp": "2023-11-04T00:30:00",
+        "valor": 20.951445,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 2,
+        "timestamp": "2023-11-04T01:00:00",
+        "valor": 37.56782,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 3,
+        "timestamp": "2023-11-04T01:30:00",
+        "valor": 83.971762,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 4,
+        "timestamp": "2023-11-04T02:00:00",
+        "valor": 25.871723,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 5,
+        "timestamp": "2023-11-04T02:30:00",
+        "valor": 89.233676,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 6,
+        "timestamp": "2023-11-04T03:00:00",
+        "valor": 32.355615,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 7,
+        "timestamp": "2023-11-04T03:30:00",
+        "valor": 67.523006,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 8,
+        "timestamp": "2023-11-04T04:00:00",
+        "valor": 40.78979,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 9,
+        "timestamp": "2023-11-04T04:30:00",
+        "valor": 22.804652,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 10,
+        "timestamp": "2023-11-04T05:00:00",
+        "valor": 12.23457,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 11,
+        "timestamp": "2023-11-04T05:30:00",
+        "valor": 76.416745,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 12,
+        "timestamp": "2023-11-04T06:00:00",
+        "valor": 38.871981,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 13,
+        "timestamp": "2023-11-04T06:30:00",
+        "valor": 9.993099,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 14,
+        "timestamp": "2023-11-04T07:00:00",
+        "valor": 81.97589,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 15,
+        "timestamp": "2023-11-04T07:30:00",
+        "valor": 25.384852,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 16,
+        "timestamp": "2023-11-04T08:00:00",
+        "valor": 86.203958,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 17,
+        "timestamp": "2023-11-04T08:30:00",
+        "valor": 88.009532,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 18,
+        "timestamp": "2023-11-04T09:00:00",
+        "valor": 76.94555,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 19,
+        "timestamp": "2023-11-04T09:30:00",
+        "valor": 68.967436,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 20,
+        "timestamp": "2023-11-04T10:00:00",
+        "valor": 22.815726,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 21,
+        "timestamp": "2023-11-04T10:30:00",
+        "valor": 82.813299,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 22,
+        "timestamp": "2023-11-04T11:00:00",
+        "valor": 56.336472,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 23,
+        "timestamp": "2023-11-04T11:30:00",
+        "valor": 16.257536,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 24,
+        "timestamp": "2023-11-04T12:00:00",
+        "valor": 67.424643,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 25,
+        "timestamp": "2023-11-04T12:30:00",
+        "valor": 20.521188,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 26,
+        "timestamp": "2023-11-04T13:00:00",
+        "valor": 68.33795,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 27,
+        "timestamp": "2023-11-04T13:30:00",
+        "valor": 65.442468,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 28,
+        "timestamp": "2023-11-04T14:00:00",
+        "valor": 21.892702,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 29,
+        "timestamp": "2023-11-04T14:30:00",
+        "valor": 68.979999,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 30,
+        "timestamp": "2023-11-04T15:00:00",
+        "valor": 56.264575,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 31,
+        "timestamp": "2023-11-04T15:30:00",
+        "valor": 20.86422,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 32,
+        "timestamp": "2023-11-04T16:00:00",
+        "valor": 21.124255,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 33,
+        "timestamp": "2023-11-04T16:30:00",
+        "valor": 36.369423,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 34,
+        "timestamp": "2023-11-04T17:00:00",
+        "valor": 68.353813,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 35,
+        "timestamp": "2023-11-04T17:30:00",
+        "valor": 48.23326,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 36,
+        "timestamp": "2023-11-04T18:00:00",
+        "valor": 37.429659,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 37,
+        "timestamp": "2023-11-04T18:30:00",
+        "valor": 45.744777,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 38,
+        "timestamp": "2023-11-04T19:00:00",
+        "valor": 23.316615,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 39,
+        "timestamp": "2023-11-04T19:30:00",
+        "valor": 41.703515,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 40,
+        "timestamp": "2023-11-04T20:00:00",
+        "valor": 29.355262,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 41,
+        "timestamp": "2023-11-04T20:30:00",
+        "valor": 34.625841,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 42,
+        "timestamp": "2023-11-04T21:00:00",
+        "valor": 84.910449,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 43,
+        "timestamp": "2023-11-04T21:30:00",
+        "valor": 16.454885,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 44,
+        "timestamp": "2023-11-04T22:00:00",
+        "valor": 22.532595,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 45,
+        "timestamp": "2023-11-04T22:30:00",
+        "valor": 73.918932,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 46,
+        "timestamp": "2023-11-04T23:00:00",
+        "valor": 48.725835,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 47,
+        "timestamp": "2023-11-04T23:30:00",
+        "valor": 33.658403,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      }
+    ],
+    "ram_percent": [
+      {
+        "indice": 0,
+        "timestamp": "2023-11-04T00:00:00",
+        "valor": 23.061036,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 1,
+        "timestamp": "2023-11-04T00:30:00",
+        "valor": 16.067326,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 2,
+        "timestamp": "2023-11-04T01:00:00",
+        "valor": 6.902584,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 3,
+        "timestamp": "2023-11-04T01:30:00",
+        "valor": 13.996059,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 4,
+        "timestamp": "2023-11-04T02:00:00",
+        "valor": 8.371593,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 5,
+        "timestamp": "2023-11-04T02:30:00",
+        "valor": 6.178383,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 6,
+        "timestamp": "2023-11-04T03:00:00",
+        "valor": 9.360817,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 7,
+        "timestamp": "2023-11-04T03:30:00",
+        "valor": 8.826585,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 8,
+        "timestamp": "2023-11-04T04:00:00",
+        "valor": 9.013762,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 9,
+        "timestamp": "2023-11-04T04:30:00",
+        "valor": 22.745164,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 10,
+        "timestamp": "2023-11-04T05:00:00",
+        "valor": 12.511183,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 11,
+        "timestamp": "2023-11-04T05:30:00",
+        "valor": 18.93506,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 12,
+        "timestamp": "2023-11-04T06:00:00",
+        "valor": 10.863617,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 13,
+        "timestamp": "2023-11-04T06:30:00",
+        "valor": 21.685137,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 14,
+        "timestamp": "2023-11-04T07:00:00",
+        "valor": 10.484167,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 15,
+        "timestamp": "2023-11-04T07:30:00",
+        "valor": 21.225826,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 16,
+        "timestamp": "2023-11-04T08:00:00",
+        "valor": 12.524807,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 17,
+        "timestamp": "2023-11-04T08:30:00",
+        "valor": 8.470198,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 18,
+        "timestamp": "2023-11-04T09:00:00",
+        "valor": 15.528397,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 19,
+        "timestamp": "2023-11-04T09:30:00",
+        "valor": 7.28518,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 20,
+        "timestamp": "2023-11-04T10:00:00",
+        "valor": 18.888636,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 21,
+        "timestamp": "2023-11-04T10:30:00",
+        "valor": 9.325553,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 22,
+        "timestamp": "2023-11-04T11:00:00",
+        "valor": 11.618873,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 23,
+        "timestamp": "2023-11-04T11:30:00",
+        "valor": 22.294794,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 24,
+        "timestamp": "2023-11-04T12:00:00",
+        "valor": 7.703955,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 25,
+        "timestamp": "2023-11-04T12:30:00",
+        "valor": 23.52674,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 26,
+        "timestamp": "2023-11-04T13:00:00",
+        "valor": 7.990912,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 27,
+        "timestamp": "2023-11-04T13:30:00",
+        "valor": 19.778837,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 28,
+        "timestamp": "2023-11-04T14:00:00",
+        "valor": 23.467396,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 29,
+        "timestamp": "2023-11-04T14:30:00",
+        "valor": 24.430819,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 30,
+        "timestamp": "2023-11-04T15:00:00",
+        "valor": 11.060192,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 31,
+        "timestamp": "2023-11-04T15:30:00",
+        "valor": 24.362202,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 32,
+        "timestamp": "2023-11-04T16:00:00",
+        "valor": 10.560364,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 33,
+        "timestamp": "2023-11-04T16:30:00",
+        "valor": 23.038201,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 34,
+        "timestamp": "2023-11-04T17:00:00",
+        "valor": 16.299215,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 35,
+        "timestamp": "2023-11-04T17:30:00",
+        "valor": 24.505872,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 36,
+        "timestamp": "2023-11-04T18:00:00",
+        "valor": 10.352433,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 37,
+        "timestamp": "2023-11-04T18:30:00",
+        "valor": 17.359783,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 38,
+        "timestamp": "2023-11-04T19:00:00",
+        "valor": 26.446112,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 39,
+        "timestamp": "2023-11-04T19:30:00",
+        "valor": 24.569714,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 40,
+        "timestamp": "2023-11-04T20:00:00",
+        "valor": 23.677471,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 41,
+        "timestamp": "2023-11-04T20:30:00",
+        "valor": 8.291506,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 42,
+        "timestamp": "2023-11-04T21:00:00",
+        "valor": 26.610386,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 43,
+        "timestamp": "2023-11-04T21:30:00",
+        "valor": 21.230785,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 44,
+        "timestamp": "2023-11-04T22:00:00",
+        "valor": 13.0985,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 45,
+        "timestamp": "2023-11-04T22:30:00",
+        "valor": 19.775402,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 46,
+        "timestamp": "2023-11-04T23:00:00",
+        "valor": 24.849717,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 47,
+        "timestamp": "2023-11-04T23:30:00",
+        "valor": 14.312321,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      }
+    ],
+    "disk_percent": [
+      {
+        "indice": 0,
+        "timestamp": "2023-11-04T00:00:00",
+        "valor": 65.828178,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 1,
+        "timestamp": "2023-11-04T00:30:00",
+        "valor": 65.386594,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 2,
+        "timestamp": "2023-11-04T01:00:00",
+        "valor": 68.108292,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 3,
+        "timestamp": "2023-11-04T01:30:00",
+        "valor": 68.020351,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 4,
+        "timestamp": "2023-11-04T02:00:00",
+        "valor": 65.253201,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 5,
+        "timestamp": "2023-11-04T02:30:00",
+        "valor": 65.319436,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 6,
+        "timestamp": "2023-11-04T03:00:00",
+        "valor": 66.324959,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 7,
+        "timestamp": "2023-11-04T03:30:00",
+        "valor": 64.588145,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 8,
+        "timestamp": "2023-11-04T04:00:00",
+        "valor": 67.181747,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 9,
+        "timestamp": "2023-11-04T04:30:00",
+        "valor": 68.457496,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 10,
+        "timestamp": "2023-11-04T05:00:00",
+        "valor": 68.397931,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 11,
+        "timestamp": "2023-11-04T05:30:00",
+        "valor": 66.630324,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 12,
+        "timestamp": "2023-11-04T06:00:00",
+        "valor": 67.673068,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 13,
+        "timestamp": "2023-11-04T06:30:00",
+        "valor": 65.741973,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 14,
+        "timestamp": "2023-11-04T07:00:00",
+        "valor": 67.808965,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 15,
+        "timestamp": "2023-11-04T07:30:00",
+        "valor": 70.335202,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 16,
+        "timestamp": "2023-11-04T08:00:00",
+        "valor": 64.72762,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 17,
+        "timestamp": "2023-11-04T08:30:00",
+        "valor": 66.456815,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 18,
+        "timestamp": "2023-11-04T09:00:00",
+        "valor": 65.564918,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 19,
+        "timestamp": "2023-11-04T09:30:00",
+        "valor": 65.649926,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 20,
+        "timestamp": "2023-11-04T10:00:00",
+        "valor": 65.734352,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 21,
+        "timestamp": "2023-11-04T10:30:00",
+        "valor": 66.149957,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 22,
+        "timestamp": "2023-11-04T11:00:00",
+        "valor": 64.768931,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 23,
+        "timestamp": "2023-11-04T11:30:00",
+        "valor": 67.452496,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 24,
+        "timestamp": "2023-11-04T12:00:00",
+        "valor": 65.025714,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 25,
+        "timestamp": "2023-11-04T12:30:00",
+        "valor": 66.058948,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 26,
+        "timestamp": "2023-11-04T13:00:00",
+        "valor": 64.895119,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 27,
+        "timestamp": "2023-11-04T13:30:00",
+        "valor": 70.770549,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 28,
+        "timestamp": "2023-11-04T14:00:00",
+        "valor": 69.19332,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 29,
+        "timestamp": "2023-11-04T14:30:00",
+        "valor": 68.140636,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 30,
+        "timestamp": "2023-11-04T15:00:00",
+        "valor": 64.381678,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 31,
+        "timestamp": "2023-11-04T15:30:00",
+        "valor": 67.222901,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 32,
+        "timestamp": "2023-11-04T16:00:00",
+        "valor": 70.027853,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 33,
+        "timestamp": "2023-11-04T16:30:00",
+        "valor": 67.627572,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 34,
+        "timestamp": "2023-11-04T17:00:00",
+        "valor": 64.748087,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 35,
+        "timestamp": "2023-11-04T17:30:00",
+        "valor": 70.305417,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 36,
+        "timestamp": "2023-11-04T18:00:00",
+        "valor": 64.729252,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 37,
+        "timestamp": "2023-11-04T18:30:00",
+        "valor": 67.880426,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 38,
+        "timestamp": "2023-11-04T19:00:00",
+        "valor": 70.23903,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 39,
+        "timestamp": "2023-11-04T19:30:00",
+        "valor": 66.68628,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 40,
+        "timestamp": "2023-11-04T20:00:00",
+        "valor": 64.889382,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 41,
+        "timestamp": "2023-11-04T20:30:00",
+        "valor": 64.794717,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 42,
+        "timestamp": "2023-11-04T21:00:00",
+        "valor": 67.049662,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 43,
+        "timestamp": "2023-11-04T21:30:00",
+        "valor": 67.215158,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 44,
+        "timestamp": "2023-11-04T22:00:00",
+        "valor": 69.839344,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 45,
+        "timestamp": "2023-11-04T22:30:00",
+        "valor": 65.37773,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 46,
+        "timestamp": "2023-11-04T23:00:00",
+        "valor": 70.234521,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 47,
+        "timestamp": "2023-11-04T23:30:00",
+        "valor": 66.953068,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      }
+    ],
+    "battery_percent": [
+      {
+        "indice": 0,
+        "timestamp": "2023-11-04T00:00:00",
+        "valor": 3.5804,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 1,
+        "timestamp": "2023-11-04T00:30:00",
+        "valor": 7.1608,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 2,
+        "timestamp": "2023-11-04T01:00:00",
+        "valor": 10.7413,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 3,
+        "timestamp": "2023-11-04T01:30:00",
+        "valor": 14.3217,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 4,
+        "timestamp": "2023-11-04T02:00:00",
+        "valor": 17.9021,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 5,
+        "timestamp": "2023-11-04T02:30:00",
+        "valor": 21.4825,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 6,
+        "timestamp": "2023-11-04T03:00:00",
+        "valor": 25.063,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 7,
+        "timestamp": "2023-11-04T03:30:00",
+        "valor": 28.6434,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 8,
+        "timestamp": "2023-11-04T04:00:00",
+        "valor": 32.2238,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 9,
+        "timestamp": "2023-11-04T04:30:00",
+        "valor": 35.8042,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 10,
+        "timestamp": "2023-11-04T05:00:00",
+        "valor": 39.3847,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 11,
+        "timestamp": "2023-11-04T05:30:00",
+        "valor": 42.9651,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 12,
+        "timestamp": "2023-11-04T06:00:00",
+        "valor": 46.5455,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 13,
+        "timestamp": "2023-11-04T06:30:00",
+        "valor": 50.1259,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 14,
+        "timestamp": "2023-11-04T07:00:00",
+        "valor": 45.5468,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 15,
+        "timestamp": "2023-11-04T07:30:00",
+        "valor": 44.1288,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 16,
+        "timestamp": "2023-11-04T08:00:00",
+        "valor": 39.3136,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 17,
+        "timestamp": "2023-11-04T08:30:00",
+        "valor": 34.3974,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 18,
+        "timestamp": "2023-11-04T09:00:00",
+        "valor": 30.0993,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 19,
+        "timestamp": "2023-11-04T09:30:00",
+        "valor": 26.2468,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 20,
+        "timestamp": "2023-11-04T10:00:00",
+        "valor": 24.9723,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 21,
+        "timestamp": "2023-11-04T10:30:00",
+        "valor": 20.3464,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 22,
+        "timestamp": "2023-11-04T11:00:00",
+        "valor": 17.1995,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 23,
+        "timestamp": "2023-11-04T11:30:00",
+        "valor": 16.2914,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 24,
+        "timestamp": "2023-11-04T12:00:00",
+        "valor": 12.5251,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 25,
+        "timestamp": "2023-11-04T12:30:00",
+        "valor": 11.3788,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 26,
+        "timestamp": "2023-11-04T13:00:00",
+        "valor": 7.5615,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 27,
+        "timestamp": "2023-11-04T13:30:00",
+        "valor": 3.9059,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 28,
+        "timestamp": "2023-11-04T14:00:00",
+        "valor": 2.683,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 29,
+        "timestamp": "2023-11-04T14:30:00",
+        "valor": 0.0,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 30,
+        "timestamp": "2023-11-04T15:00:00",
+        "valor": 0.0,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 31,
+        "timestamp": "2023-11-04T15:30:00",
+        "valor": 0.0,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 32,
+        "timestamp": "2023-11-04T16:00:00",
+        "valor": 0.0,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 33,
+        "timestamp": "2023-11-04T16:30:00",
+        "valor": 0.0,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 34,
+        "timestamp": "2023-11-04T17:00:00",
+        "valor": 0.0,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 35,
+        "timestamp": "2023-11-04T17:30:00",
+        "valor": 0.0,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 36,
+        "timestamp": "2023-11-04T18:00:00",
+        "valor": 0.0,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 37,
+        "timestamp": "2023-11-04T18:30:00",
+        "valor": 0.0,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 38,
+        "timestamp": "2023-11-04T19:00:00",
+        "valor": 0.0,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 39,
+        "timestamp": "2023-11-04T19:30:00",
+        "valor": 0.0,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 40,
+        "timestamp": "2023-11-04T20:00:00",
+        "valor": 0.0,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 41,
+        "timestamp": "2023-11-04T20:30:00",
+        "valor": 0.0,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 42,
+        "timestamp": "2023-11-04T21:00:00",
+        "valor": 0.0,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 43,
+        "timestamp": "2023-11-04T21:30:00",
+        "valor": 0.0,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 44,
+        "timestamp": "2023-11-04T22:00:00",
+        "valor": 0.0,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 45,
+        "timestamp": "2023-11-04T22:30:00",
+        "valor": 0.0,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 46,
+        "timestamp": "2023-11-04T23:00:00",
+        "valor": 0.0,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 47,
+        "timestamp": "2023-11-04T23:30:00",
+        "valor": 0.0,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      }
+    ],
+    "cpu_freq": [
+      {
+        "indice": 0,
+        "timestamp": "2023-11-04T00:00:00",
+        "valor": 0.694067,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 1,
+        "timestamp": "2023-11-04T00:30:00",
+        "valor": 6.530226,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 2,
+        "timestamp": "2023-11-04T01:00:00",
+        "valor": 5.994876,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 3,
+        "timestamp": "2023-11-04T01:30:00",
+        "valor": 6.364628,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 4,
+        "timestamp": "2023-11-04T02:00:00",
+        "valor": 2.484525,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 5,
+        "timestamp": "2023-11-04T02:30:00",
+        "valor": 2.823872,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 6,
+        "timestamp": "2023-11-04T03:00:00",
+        "valor": 3.824072,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 7,
+        "timestamp": "2023-11-04T03:30:00",
+        "valor": 6.053252,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 8,
+        "timestamp": "2023-11-04T04:00:00",
+        "valor": 2.415506,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 9,
+        "timestamp": "2023-11-04T04:30:00",
+        "valor": 0.891843,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 10,
+        "timestamp": "2023-11-04T05:00:00",
+        "valor": 6.696857,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 11,
+        "timestamp": "2023-11-04T05:30:00",
+        "valor": 1.104392,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 12,
+        "timestamp": "2023-11-04T06:00:00",
+        "valor": 6.074473,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 13,
+        "timestamp": "2023-11-04T06:30:00",
+        "valor": 3.249013,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 14,
+        "timestamp": "2023-11-04T07:00:00",
+        "valor": 3.419203,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 15,
+        "timestamp": "2023-11-04T07:30:00",
+        "valor": 5.318577,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 16,
+        "timestamp": "2023-11-04T08:00:00",
+        "valor": 2.917017,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 17,
+        "timestamp": "2023-11-04T08:30:00",
+        "valor": 3.112374,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 18,
+        "timestamp": "2023-11-04T09:00:00",
+        "valor": 1.280547,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 19,
+        "timestamp": "2023-11-04T09:30:00",
+        "valor": 4.824283,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 20,
+        "timestamp": "2023-11-04T10:00:00",
+        "valor": 4.881478,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 21,
+        "timestamp": "2023-11-04T10:30:00",
+        "valor": 6.663364,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 22,
+        "timestamp": "2023-11-04T11:00:00",
+        "valor": 5.804869,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 23,
+        "timestamp": "2023-11-04T11:30:00",
+        "valor": 5.028817,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 24,
+        "timestamp": "2023-11-04T12:00:00",
+        "valor": 3.209848,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 25,
+        "timestamp": "2023-11-04T12:30:00",
+        "valor": 5.047704,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 26,
+        "timestamp": "2023-11-04T13:00:00",
+        "valor": 5.897087,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 27,
+        "timestamp": "2023-11-04T13:30:00",
+        "valor": 6.428169,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 28,
+        "timestamp": "2023-11-04T14:00:00",
+        "valor": 4.192315,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 29,
+        "timestamp": "2023-11-04T14:30:00",
+        "valor": 5.698299,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 30,
+        "timestamp": "2023-11-04T15:00:00",
+        "valor": 1.796793,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 31,
+        "timestamp": "2023-11-04T15:30:00",
+        "valor": 5.887076,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 32,
+        "timestamp": "2023-11-04T16:00:00",
+        "valor": 3.982226,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 33,
+        "timestamp": "2023-11-04T16:30:00",
+        "valor": 2.813725,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 34,
+        "timestamp": "2023-11-04T17:00:00",
+        "valor": 3.009738,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 35,
+        "timestamp": "2023-11-04T17:30:00",
+        "valor": 3.649639,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 36,
+        "timestamp": "2023-11-04T18:00:00",
+        "valor": 1.643259,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 37,
+        "timestamp": "2023-11-04T18:30:00",
+        "valor": 6.254942,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 38,
+        "timestamp": "2023-11-04T19:00:00",
+        "valor": 4.164658,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 39,
+        "timestamp": "2023-11-04T19:30:00",
+        "valor": 3.515923,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 40,
+        "timestamp": "2023-11-04T20:00:00",
+        "valor": 1.888259,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 41,
+        "timestamp": "2023-11-04T20:30:00",
+        "valor": 3.561698,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 42,
+        "timestamp": "2023-11-04T21:00:00",
+        "valor": 4.213049,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 43,
+        "timestamp": "2023-11-04T21:30:00",
+        "valor": 0.945625,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 44,
+        "timestamp": "2023-11-04T22:00:00",
+        "valor": 6.183989,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 45,
+        "timestamp": "2023-11-04T22:30:00",
+        "valor": 6.668319,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 46,
+        "timestamp": "2023-11-04T23:00:00",
+        "valor": 3.973731,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 47,
+        "timestamp": "2023-11-04T23:30:00",
+        "valor": 4.703424,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      }
+    ],
+    "net_upload": [
+      {
+        "indice": 0,
+        "timestamp": "2023-11-04T00:00:00",
+        "valor": 0.002515,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 1,
+        "timestamp": "2023-11-04T00:30:00",
+        "valor": 0.000483,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 2,
+        "timestamp": "2023-11-04T01:00:00",
+        "valor": 0.00037,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 3,
+        "timestamp": "2023-11-04T01:30:00",
+        "valor": 0.000432,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 4,
+        "timestamp": "2023-11-04T02:00:00",
+        "valor": 0.006679,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 5,
+        "timestamp": "2023-11-04T02:30:00",
+        "valor": 0.003442,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 6,
+        "timestamp": "2023-11-04T03:00:00",
+        "valor": 0.005524,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 7,
+        "timestamp": "2023-11-04T03:30:00",
+        "valor": 0.00413,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 8,
+        "timestamp": "2023-11-04T04:00:00",
+        "valor": 0.00122,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 9,
+        "timestamp": "2023-11-04T04:30:00",
+        "valor": 0.008262,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 10,
+        "timestamp": "2023-11-04T05:00:00",
+        "valor": 0.003612,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 11,
+        "timestamp": "2023-11-04T05:30:00",
+        "valor": 0.003712,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 12,
+        "timestamp": "2023-11-04T06:00:00",
+        "valor": 0.003106,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 13,
+        "timestamp": "2023-11-04T06:30:00",
+        "valor": 0.00083,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 14,
+        "timestamp": "2023-11-04T07:00:00",
+        "valor": 0.002079,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 15,
+        "timestamp": "2023-11-04T07:30:00",
+        "valor": 0.003336,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 16,
+        "timestamp": "2023-11-04T08:00:00",
+        "valor": 0.001403,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 17,
+        "timestamp": "2023-11-04T08:30:00",
+        "valor": 0.002328,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 18,
+        "timestamp": "2023-11-04T09:00:00",
+        "valor": 0.002365,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 19,
+        "timestamp": "2023-11-04T09:30:00",
+        "valor": 0.000111,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 20,
+        "timestamp": "2023-11-04T10:00:00",
+        "valor": 0.004283,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 21,
+        "timestamp": "2023-11-04T10:30:00",
+        "valor": 0.002485,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 22,
+        "timestamp": "2023-11-04T11:00:00",
+        "valor": 0.000674,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 23,
+        "timestamp": "2023-11-04T11:30:00",
+        "valor": 0.004321,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 24,
+        "timestamp": "2023-11-04T12:00:00",
+        "valor": 0.000928,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 25,
+        "timestamp": "2023-11-04T12:30:00",
+        "valor": 0.006347,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 26,
+        "timestamp": "2023-11-04T13:00:00",
+        "valor": 0.003509,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 27,
+        "timestamp": "2023-11-04T13:30:00",
+        "valor": 0.004263,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 28,
+        "timestamp": "2023-11-04T14:00:00",
+        "valor": 0.005872,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 29,
+        "timestamp": "2023-11-04T14:30:00",
+        "valor": 0.001333,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 30,
+        "timestamp": "2023-11-04T15:00:00",
+        "valor": 0.000731,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 31,
+        "timestamp": "2023-11-04T15:30:00",
+        "valor": 0.004819,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 32,
+        "timestamp": "2023-11-04T16:00:00",
+        "valor": 0.005933,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 33,
+        "timestamp": "2023-11-04T16:30:00",
+        "valor": 0.006204,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 34,
+        "timestamp": "2023-11-04T17:00:00",
+        "valor": 0.003214,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 35,
+        "timestamp": "2023-11-04T17:30:00",
+        "valor": 0.002272,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 36,
+        "timestamp": "2023-11-04T18:00:00",
+        "valor": 0.002787,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 37,
+        "timestamp": "2023-11-04T18:30:00",
+        "valor": 0.000388,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 38,
+        "timestamp": "2023-11-04T19:00:00",
+        "valor": 0.003723,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 39,
+        "timestamp": "2023-11-04T19:30:00",
+        "valor": 0.000947,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 40,
+        "timestamp": "2023-11-04T20:00:00",
+        "valor": 0.002577,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 41,
+        "timestamp": "2023-11-04T20:30:00",
+        "valor": 0.001518,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 42,
+        "timestamp": "2023-11-04T21:00:00",
+        "valor": 0.001167,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 43,
+        "timestamp": "2023-11-04T21:30:00",
+        "valor": 0.002151,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 44,
+        "timestamp": "2023-11-04T22:00:00",
+        "valor": 0.001726,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 45,
+        "timestamp": "2023-11-04T22:30:00",
+        "valor": 0.002795,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 46,
+        "timestamp": "2023-11-04T23:00:00",
+        "valor": 0.000416,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 47,
+        "timestamp": "2023-11-04T23:30:00",
+        "valor": 0.002279,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      }
+    ],
+    "net_download": [
+      {
+        "indice": 0,
+        "timestamp": "2023-11-04T00:00:00",
+        "valor": 0.035291,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 1,
+        "timestamp": "2023-11-04T00:30:00",
+        "valor": 0.008197,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 2,
+        "timestamp": "2023-11-04T01:00:00",
+        "valor": 0.00727,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 3,
+        "timestamp": "2023-11-04T01:30:00",
+        "valor": 0.0328,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 4,
+        "timestamp": "2023-11-04T02:00:00",
+        "valor": 0.063411,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 5,
+        "timestamp": "2023-11-04T02:30:00",
+        "valor": 0.009879,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 6,
+        "timestamp": "2023-11-04T03:00:00",
+        "valor": 0.004262,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 7,
+        "timestamp": "2023-11-04T03:30:00",
+        "valor": 0.061838,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 8,
+        "timestamp": "2023-11-04T04:00:00",
+        "valor": 0.087181,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 9,
+        "timestamp": "2023-11-04T04:30:00",
+        "valor": 0.033502,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 10,
+        "timestamp": "2023-11-04T05:00:00",
+        "valor": 0.029365,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 11,
+        "timestamp": "2023-11-04T05:30:00",
+        "valor": 0.014052,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 12,
+        "timestamp": "2023-11-04T06:00:00",
+        "valor": 0.023117,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 13,
+        "timestamp": "2023-11-04T06:30:00",
+        "valor": 0.037471,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 14,
+        "timestamp": "2023-11-04T07:00:00",
+        "valor": 0.00753,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 15,
+        "timestamp": "2023-11-04T07:30:00",
+        "valor": 0.005301,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 16,
+        "timestamp": "2023-11-04T08:00:00",
+        "valor": 0.002085,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 17,
+        "timestamp": "2023-11-04T08:30:00",
+        "valor": 0.034305,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 18,
+        "timestamp": "2023-11-04T09:00:00",
+        "valor": 0.007369,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 19,
+        "timestamp": "2023-11-04T09:30:00",
+        "valor": 0.038553,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 20,
+        "timestamp": "2023-11-04T10:00:00",
+        "valor": 0.03785,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 21,
+        "timestamp": "2023-11-04T10:30:00",
+        "valor": 0.02812,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 22,
+        "timestamp": "2023-11-04T11:00:00",
+        "valor": 0.052787,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 23,
+        "timestamp": "2023-11-04T11:30:00",
+        "valor": 0.002763,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 24,
+        "timestamp": "2023-11-04T12:00:00",
+        "valor": 0.021322,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 25,
+        "timestamp": "2023-11-04T12:30:00",
+        "valor": 0.008423,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 26,
+        "timestamp": "2023-11-04T13:00:00",
+        "valor": 0.002472,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 27,
+        "timestamp": "2023-11-04T13:30:00",
+        "valor": 0.053549,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 28,
+        "timestamp": "2023-11-04T14:00:00",
+        "valor": 0.013328,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 29,
+        "timestamp": "2023-11-04T14:30:00",
+        "valor": 0.050182,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 30,
+        "timestamp": "2023-11-04T15:00:00",
+        "valor": 0.045156,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 31,
+        "timestamp": "2023-11-04T15:30:00",
+        "valor": 0.031343,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 32,
+        "timestamp": "2023-11-04T16:00:00",
+        "valor": 0.048666,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 33,
+        "timestamp": "2023-11-04T16:30:00",
+        "valor": 0.059439,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 34,
+        "timestamp": "2023-11-04T17:00:00",
+        "valor": 0.006641,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 35,
+        "timestamp": "2023-11-04T17:30:00",
+        "valor": 0.025627,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 36,
+        "timestamp": "2023-11-04T18:00:00",
+        "valor": 0.002887,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 37,
+        "timestamp": "2023-11-04T18:30:00",
+        "valor": 0.013333,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 38,
+        "timestamp": "2023-11-04T19:00:00",
+        "valor": 0.029396,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 39,
+        "timestamp": "2023-11-04T19:30:00",
+        "valor": 0.002646,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 40,
+        "timestamp": "2023-11-04T20:00:00",
+        "valor": 0.019904,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 41,
+        "timestamp": "2023-11-04T20:30:00",
+        "valor": 0.024452,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 42,
+        "timestamp": "2023-11-04T21:00:00",
+        "valor": 0.016241,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 43,
+        "timestamp": "2023-11-04T21:30:00",
+        "valor": 0.010001,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 44,
+        "timestamp": "2023-11-04T22:00:00",
+        "valor": 0.033371,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 45,
+        "timestamp": "2023-11-04T22:30:00",
+        "valor": 0.007311,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 46,
+        "timestamp": "2023-11-04T23:00:00",
+        "valor": 0.033229,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 47,
+        "timestamp": "2023-11-04T23:30:00",
+        "valor": 0.036337,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      }
+    ],
+    "net_usage": [
+      {
+        "indice": 0,
+        "timestamp": "2023-11-04T00:00:00",
+        "valor": 33.514607,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 1,
+        "timestamp": "2023-11-04T00:30:00",
+        "valor": 70.267584,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 2,
+        "timestamp": "2023-11-04T01:00:00",
+        "valor": 88.118134,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 3,
+        "timestamp": "2023-11-04T01:30:00",
+        "valor": 8.755184,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 4,
+        "timestamp": "2023-11-04T02:00:00",
+        "valor": 215.44401,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 5,
+        "timestamp": "2023-11-04T02:30:00",
+        "valor": 24.614404,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 6,
+        "timestamp": "2023-11-04T03:00:00",
+        "valor": 180.667557,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 7,
+        "timestamp": "2023-11-04T03:30:00",
+        "valor": 231.431903,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 8,
+        "timestamp": "2023-11-04T04:00:00",
+        "valor": 151.616049,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 9,
+        "timestamp": "2023-11-04T04:30:00",
+        "valor": 103.347134,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 10,
+        "timestamp": "2023-11-04T05:00:00",
+        "valor": 16.052611,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 11,
+        "timestamp": "2023-11-04T05:30:00",
+        "valor": 103.269875,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 12,
+        "timestamp": "2023-11-04T06:00:00",
+        "valor": 18.899488,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 13,
+        "timestamp": "2023-11-04T06:30:00",
+        "valor": 37.807307,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 14,
+        "timestamp": "2023-11-04T07:00:00",
+        "valor": 9.900046,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 15,
+        "timestamp": "2023-11-04T07:30:00",
+        "valor": 112.057596,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 16,
+        "timestamp": "2023-11-04T08:00:00",
+        "valor": 25.124391,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 17,
+        "timestamp": "2023-11-04T08:30:00",
+        "valor": 43.723768,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 18,
+        "timestamp": "2023-11-04T09:00:00",
+        "valor": 109.507754,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 19,
+        "timestamp": "2023-11-04T09:30:00",
+        "valor": 67.940405,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 20,
+        "timestamp": "2023-11-04T10:00:00",
+        "valor": 70.70566,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 21,
+        "timestamp": "2023-11-04T10:30:00",
+        "valor": 111.031187,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 22,
+        "timestamp": "2023-11-04T11:00:00",
+        "valor": 140.546721,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 23,
+        "timestamp": "2023-11-04T11:30:00",
+        "valor": 191.608056,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 24,
+        "timestamp": "2023-11-04T12:00:00",
+        "valor": 71.619171,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 25,
+        "timestamp": "2023-11-04T12:30:00",
+        "valor": 160.128537,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 26,
+        "timestamp": "2023-11-04T13:00:00",
+        "valor": 102.822513,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 27,
+        "timestamp": "2023-11-04T13:30:00",
+        "valor": 188.423766,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 28,
+        "timestamp": "2023-11-04T14:00:00",
+        "valor": 104.330019,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 29,
+        "timestamp": "2023-11-04T14:30:00",
+        "valor": 159.479985,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 30,
+        "timestamp": "2023-11-04T15:00:00",
+        "valor": 23.862432,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 31,
+        "timestamp": "2023-11-04T15:30:00",
+        "valor": 131.683787,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 32,
+        "timestamp": "2023-11-04T16:00:00",
+        "valor": 183.781191,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 33,
+        "timestamp": "2023-11-04T16:30:00",
+        "valor": 112.193322,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 34,
+        "timestamp": "2023-11-04T17:00:00",
+        "valor": 3.827329,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 35,
+        "timestamp": "2023-11-04T17:30:00",
+        "valor": 87.552003,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 36,
+        "timestamp": "2023-11-04T18:00:00",
+        "valor": 109.119427,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 37,
+        "timestamp": "2023-11-04T18:30:00",
+        "valor": 109.539837,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 38,
+        "timestamp": "2023-11-04T19:00:00",
+        "valor": 102.098147,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 39,
+        "timestamp": "2023-11-04T19:30:00",
+        "valor": 24.613081,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 40,
+        "timestamp": "2023-11-04T20:00:00",
+        "valor": 86.680548,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 41,
+        "timestamp": "2023-11-04T20:30:00",
+        "valor": 51.767103,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 42,
+        "timestamp": "2023-11-04T21:00:00",
+        "valor": 79.992117,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 43,
+        "timestamp": "2023-11-04T21:30:00",
+        "valor": 23.094527,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 44,
+        "timestamp": "2023-11-04T22:00:00",
+        "valor": 5.50745,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 45,
+        "timestamp": "2023-11-04T22:30:00",
+        "valor": 9.384648,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 46,
+        "timestamp": "2023-11-04T23:00:00",
+        "valor": 117.846651,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 47,
+        "timestamp": "2023-11-04T23:30:00",
+        "valor": 25.01647,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      }
+    ],
+    "disk_usage_gb": [
+      {
+        "indice": 0,
+        "timestamp": "2023-11-04T00:00:00",
+        "valor": 54.121432,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 1,
+        "timestamp": "2023-11-04T00:30:00",
+        "valor": 56.514759,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 2,
+        "timestamp": "2023-11-04T01:00:00",
+        "valor": 51.701673,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 3,
+        "timestamp": "2023-11-04T01:30:00",
+        "valor": 52.080783,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 4,
+        "timestamp": "2023-11-04T02:00:00",
+        "valor": 56.439876,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 5,
+        "timestamp": "2023-11-04T02:30:00",
+        "valor": 51.67005,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 6,
+        "timestamp": "2023-11-04T03:00:00",
+        "valor": 56.059305,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 7,
+        "timestamp": "2023-11-04T03:30:00",
+        "valor": 54.899848,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 8,
+        "timestamp": "2023-11-04T04:00:00",
+        "valor": 52.951633,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 9,
+        "timestamp": "2023-11-04T04:30:00",
+        "valor": 56.903855,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 10,
+        "timestamp": "2023-11-04T05:00:00",
+        "valor": 53.613091,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 11,
+        "timestamp": "2023-11-04T05:30:00",
+        "valor": 52.414912,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 12,
+        "timestamp": "2023-11-04T06:00:00",
+        "valor": 56.062827,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 13,
+        "timestamp": "2023-11-04T06:30:00",
+        "valor": 54.05857,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 14,
+        "timestamp": "2023-11-04T07:00:00",
+        "valor": 55.509074,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 15,
+        "timestamp": "2023-11-04T07:30:00",
+        "valor": 56.447347,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 16,
+        "timestamp": "2023-11-04T08:00:00",
+        "valor": 52.559391,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 17,
+        "timestamp": "2023-11-04T08:30:00",
+        "valor": 56.05911,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 18,
+        "timestamp": "2023-11-04T09:00:00",
+        "valor": 54.676852,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 19,
+        "timestamp": "2023-11-04T09:30:00",
+        "valor": 52.898308,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 20,
+        "timestamp": "2023-11-04T10:00:00",
+        "valor": 55.035599,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 21,
+        "timestamp": "2023-11-04T10:30:00",
+        "valor": 55.351794,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 22,
+        "timestamp": "2023-11-04T11:00:00",
+        "valor": 55.906299,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 23,
+        "timestamp": "2023-11-04T11:30:00",
+        "valor": 53.396879,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 24,
+        "timestamp": "2023-11-04T12:00:00",
+        "valor": 53.448655,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 25,
+        "timestamp": "2023-11-04T12:30:00",
+        "valor": 54.759082,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 26,
+        "timestamp": "2023-11-04T13:00:00",
+        "valor": 52.799087,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 27,
+        "timestamp": "2023-11-04T13:30:00",
+        "valor": 56.712423,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 28,
+        "timestamp": "2023-11-04T14:00:00",
+        "valor": 52.693603,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 29,
+        "timestamp": "2023-11-04T14:30:00",
+        "valor": 55.35976,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 30,
+        "timestamp": "2023-11-04T15:00:00",
+        "valor": 53.583775,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 31,
+        "timestamp": "2023-11-04T15:30:00",
+        "valor": 56.865869,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 32,
+        "timestamp": "2023-11-04T16:00:00",
+        "valor": 53.732215,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 33,
+        "timestamp": "2023-11-04T16:30:00",
+        "valor": 56.017003,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 34,
+        "timestamp": "2023-11-04T17:00:00",
+        "valor": 52.929775,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 35,
+        "timestamp": "2023-11-04T17:30:00",
+        "valor": 52.716746,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 36,
+        "timestamp": "2023-11-04T18:00:00",
+        "valor": 56.658742,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 37,
+        "timestamp": "2023-11-04T18:30:00",
+        "valor": 52.603303,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 38,
+        "timestamp": "2023-11-04T19:00:00",
+        "valor": 53.728384,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 39,
+        "timestamp": "2023-11-04T19:30:00",
+        "valor": 53.21399,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 40,
+        "timestamp": "2023-11-04T20:00:00",
+        "valor": 53.740972,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 41,
+        "timestamp": "2023-11-04T20:30:00",
+        "valor": 55.625921,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 42,
+        "timestamp": "2023-11-04T21:00:00",
+        "valor": 55.036191,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 43,
+        "timestamp": "2023-11-04T21:30:00",
+        "valor": 51.552598,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 44,
+        "timestamp": "2023-11-04T22:00:00",
+        "valor": 51.679622,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 45,
+        "timestamp": "2023-11-04T22:30:00",
+        "valor": 51.59318,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 46,
+        "timestamp": "2023-11-04T23:00:00",
+        "valor": 53.532721,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 47,
+        "timestamp": "2023-11-04T23:30:00",
+        "valor": 51.9727,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      }
+    ],
+    "ram_usage_gb": [
+      {
+        "indice": 0,
+        "timestamp": "2023-11-04T00:00:00",
+        "valor": 1.826082,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 1,
+        "timestamp": "2023-11-04T00:30:00",
+        "valor": 2.606479,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 2,
+        "timestamp": "2023-11-04T01:00:00",
+        "valor": 3.277482,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 3,
+        "timestamp": "2023-11-04T01:30:00",
+        "valor": 3.422669,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 4,
+        "timestamp": "2023-11-04T02:00:00",
+        "valor": 3.529844,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 5,
+        "timestamp": "2023-11-04T02:30:00",
+        "valor": 2.537179,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 6,
+        "timestamp": "2023-11-04T03:00:00",
+        "valor": 1.776979,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 7,
+        "timestamp": "2023-11-04T03:30:00",
+        "valor": 3.157764,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 8,
+        "timestamp": "2023-11-04T04:00:00",
+        "valor": 3.091368,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 9,
+        "timestamp": "2023-11-04T04:30:00",
+        "valor": 2.141107,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 10,
+        "timestamp": "2023-11-04T05:00:00",
+        "valor": 1.701796,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 11,
+        "timestamp": "2023-11-04T05:30:00",
+        "valor": 1.907294,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 12,
+        "timestamp": "2023-11-04T06:00:00",
+        "valor": 2.29259,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 13,
+        "timestamp": "2023-11-04T06:30:00",
+        "valor": 2.145895,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 14,
+        "timestamp": "2023-11-04T07:00:00",
+        "valor": 2.599512,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 15,
+        "timestamp": "2023-11-04T07:30:00",
+        "valor": 2.984456,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 16,
+        "timestamp": "2023-11-04T08:00:00",
+        "valor": 0.898561,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 17,
+        "timestamp": "2023-11-04T08:30:00",
+        "valor": 1.903198,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 18,
+        "timestamp": "2023-11-04T09:00:00",
+        "valor": 2.830455,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 19,
+        "timestamp": "2023-11-04T09:30:00",
+        "valor": 1.063754,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 20,
+        "timestamp": "2023-11-04T10:00:00",
+        "valor": 2.811462,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 21,
+        "timestamp": "2023-11-04T10:30:00",
+        "valor": 1.192887,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 22,
+        "timestamp": "2023-11-04T11:00:00",
+        "valor": 2.630868,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 23,
+        "timestamp": "2023-11-04T11:30:00",
+        "valor": 2.325164,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 24,
+        "timestamp": "2023-11-04T12:00:00",
+        "valor": 3.225279,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 25,
+        "timestamp": "2023-11-04T12:30:00",
+        "valor": 3.406462,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 26,
+        "timestamp": "2023-11-04T13:00:00",
+        "valor": 3.014163,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 27,
+        "timestamp": "2023-11-04T13:30:00",
+        "valor": 1.466471,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 28,
+        "timestamp": "2023-11-04T14:00:00",
+        "valor": 2.904507,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 29,
+        "timestamp": "2023-11-04T14:30:00",
+        "valor": 2.716555,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 30,
+        "timestamp": "2023-11-04T15:00:00",
+        "valor": 1.582267,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 31,
+        "timestamp": "2023-11-04T15:30:00",
+        "valor": 2.693622,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 32,
+        "timestamp": "2023-11-04T16:00:00",
+        "valor": 2.799271,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 33,
+        "timestamp": "2023-11-04T16:30:00",
+        "valor": 1.290937,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 34,
+        "timestamp": "2023-11-04T17:00:00",
+        "valor": 3.582397,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 35,
+        "timestamp": "2023-11-04T17:30:00",
+        "valor": 2.38215,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 36,
+        "timestamp": "2023-11-04T18:00:00",
+        "valor": 1.693544,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 37,
+        "timestamp": "2023-11-04T18:30:00",
+        "valor": 3.488019,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 38,
+        "timestamp": "2023-11-04T19:00:00",
+        "valor": 1.977933,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 39,
+        "timestamp": "2023-11-04T19:30:00",
+        "valor": 1.972002,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 40,
+        "timestamp": "2023-11-04T20:00:00",
+        "valor": 3.569618,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 41,
+        "timestamp": "2023-11-04T20:30:00",
+        "valor": 1.033388,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 42,
+        "timestamp": "2023-11-04T21:00:00",
+        "valor": 1.481823,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 43,
+        "timestamp": "2023-11-04T21:30:00",
+        "valor": 0.822473,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 44,
+        "timestamp": "2023-11-04T22:00:00",
+        "valor": 2.450712,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 45,
+        "timestamp": "2023-11-04T22:30:00",
+        "valor": 2.23904,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 46,
+        "timestamp": "2023-11-04T23:00:00",
+        "valor": 2.8687,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 47,
+        "timestamp": "2023-11-04T23:30:00",
+        "valor": 2.329519,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      }
+    ],
+    "uptime_hours": [
+      {
+        "indice": 0,
+        "timestamp": "2023-11-04T00:00:00",
+        "valor": 141.0,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 1,
+        "timestamp": "2023-11-04T00:30:00",
+        "valor": 141.5,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 2,
+        "timestamp": "2023-11-04T01:00:00",
+        "valor": 142.0,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 3,
+        "timestamp": "2023-11-04T01:30:00",
+        "valor": 142.5,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 4,
+        "timestamp": "2023-11-04T02:00:00",
+        "valor": 143.0,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 5,
+        "timestamp": "2023-11-04T02:30:00",
+        "valor": 143.5,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 6,
+        "timestamp": "2023-11-04T03:00:00",
+        "valor": 144.0,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 7,
+        "timestamp": "2023-11-04T03:30:00",
+        "valor": 144.5,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 8,
+        "timestamp": "2023-11-04T04:00:00",
+        "valor": 145.0,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 9,
+        "timestamp": "2023-11-04T04:30:00",
+        "valor": 145.5,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 10,
+        "timestamp": "2023-11-04T05:00:00",
+        "valor": 146.0,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 11,
+        "timestamp": "2023-11-04T05:30:00",
+        "valor": 146.5,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 12,
+        "timestamp": "2023-11-04T06:00:00",
+        "valor": 147.0,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 13,
+        "timestamp": "2023-11-04T06:30:00",
+        "valor": 147.5,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 14,
+        "timestamp": "2023-11-04T07:00:00",
+        "valor": 148.0,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 15,
+        "timestamp": "2023-11-04T07:30:00",
+        "valor": 148.5,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 16,
+        "timestamp": "2023-11-04T08:00:00",
+        "valor": 149.0,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 17,
+        "timestamp": "2023-11-04T08:30:00",
+        "valor": 149.5,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 18,
+        "timestamp": "2023-11-04T09:00:00",
+        "valor": 150.0,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 19,
+        "timestamp": "2023-11-04T09:30:00",
+        "valor": 150.5,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 20,
+        "timestamp": "2023-11-04T10:00:00",
+        "valor": 151.0,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 21,
+        "timestamp": "2023-11-04T10:30:00",
+        "valor": 151.5,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 22,
+        "timestamp": "2023-11-04T11:00:00",
+        "valor": 152.0,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 23,
+        "timestamp": "2023-11-04T11:30:00",
+        "valor": 152.5,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 24,
+        "timestamp": "2023-11-04T12:00:00",
+        "valor": 153.0,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 25,
+        "timestamp": "2023-11-04T12:30:00",
+        "valor": 153.5,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 26,
+        "timestamp": "2023-11-04T13:00:00",
+        "valor": 154.0,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 27,
+        "timestamp": "2023-11-04T13:30:00",
+        "valor": 154.5,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 28,
+        "timestamp": "2023-11-04T14:00:00",
+        "valor": 155.0,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 29,
+        "timestamp": "2023-11-04T14:30:00",
+        "valor": 155.5,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 30,
+        "timestamp": "2023-11-04T15:00:00",
+        "valor": 156.0,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 31,
+        "timestamp": "2023-11-04T15:30:00",
+        "valor": 156.5,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 32,
+        "timestamp": "2023-11-04T16:00:00",
+        "valor": 157.0,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 33,
+        "timestamp": "2023-11-04T16:30:00",
+        "valor": 157.5,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 34,
+        "timestamp": "2023-11-04T17:00:00",
+        "valor": 158.0,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 35,
+        "timestamp": "2023-11-04T17:30:00",
+        "valor": 158.5,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 36,
+        "timestamp": "2023-11-04T18:00:00",
+        "valor": 159.0,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 37,
+        "timestamp": "2023-11-04T18:30:00",
+        "valor": 159.5,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 38,
+        "timestamp": "2023-11-04T19:00:00",
+        "valor": 160.0,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 39,
+        "timestamp": "2023-11-04T19:30:00",
+        "valor": 160.5,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 40,
+        "timestamp": "2023-11-04T20:00:00",
+        "valor": 161.0,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 41,
+        "timestamp": "2023-11-04T20:30:00",
+        "valor": 161.5,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 42,
+        "timestamp": "2023-11-04T21:00:00",
+        "valor": 162.0,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 43,
+        "timestamp": "2023-11-04T21:30:00",
+        "valor": 162.5,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 44,
+        "timestamp": "2023-11-04T22:00:00",
+        "valor": 163.0,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 45,
+        "timestamp": "2023-11-04T22:30:00",
+        "valor": 163.5,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 46,
+        "timestamp": "2023-11-04T23:00:00",
+        "valor": 164.0,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      },
+      {
+        "indice": 47,
+        "timestamp": "2023-11-04T23:30:00",
+        "valor": 164.5,
+        "empresa": "amazon-robotics",
+        "modelo": "X100"
+      }
+    ]
+  }
+}

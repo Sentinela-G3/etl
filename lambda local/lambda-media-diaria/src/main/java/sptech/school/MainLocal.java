@@ -34,14 +34,15 @@ public class MainLocal {
     }
 
     private static void processarArquivo(File arquivo) throws IOException {
-        String nomeArquivo = arquivo.getName(); // exemplo: acme_2025-06-01_medicoes.json
+        String nomeArquivo = arquivo.getName(); // exemplo: acme_2025-06-01_modelo_captura.json
         String[] partes = nomeArquivo.split("_");
-        if (partes.length < 3) {
+        if (partes.length < 4) {
             throw new IllegalArgumentException("Nome do arquivo inválido: " + nomeArquivo);
         }
 
         String empresa = partes[0];
         String data = partes[1];
+        String modelo = partes[2];
 
         try (BufferedReader reader = new BufferedReader(new FileReader(arquivo))) {
             DadosWrapper wrapper = objectMapper.readValue(reader, DadosWrapper.class);
@@ -128,15 +129,15 @@ public class MainLocal {
                 ));
             }
 
-            salvarResultado(empresa, data, resultados);
+            salvarResultado(empresa, data, modelo, resultados);
         }
     }
 
-    private static void salvarResultado(String empresa, String data, List<MediaDiariaResultado> resultados) throws IOException {
+    private static void salvarResultado(String empresa, String data, String modelo, List<MediaDiariaResultado> resultados) throws IOException {
         Path pastaSaida = Paths.get(PASTA_SAIDA);
         Files.createDirectories(pastaSaida);
 
-        File arquivoSaida = pastaSaida.resolve("media-diaria_" + empresa + "_" + data + ".json").toFile();
+        File arquivoSaida = pastaSaida.resolve("media-diaria_" + empresa + "_" + modelo + "_" + data + ".json").toFile();
         objectMapper.writeValue(arquivoSaida, resultados);
 
         System.out.println("Arquivo gerado: " + arquivoSaida.getPath());

@@ -1,0 +1,4805 @@
+[ {
+  "empresa" : "amazon-robotics",
+  "modelo" : "X100",
+  "mediasMensais" : [ {
+    "data" : "2021-01",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "battery_percent",
+    "mediaGeral" : 70.57774543010751,
+    "mediaPico" : 87.27803879005856,
+    "uptimeTotal" : 89503.0,
+    "uptimePico" : 44119.0,
+    "contadorAcima95" : 223
+  }, {
+    "data" : "2021-01",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "cpu_freq",
+    "mediaGeral" : 2.9505797211021507,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 89503.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2021-01",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "cpu_percent",
+    "mediaGeral" : 40.50094339650538,
+    "mediaPico" : 88.66881996783825,
+    "uptimeTotal" : 89503.0,
+    "uptimePico" : 10146.5,
+    "contadorAcima95" : 54
+  }, {
+    "data" : "2021-01",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "disk_percent",
+    "mediaGeral" : 50.38233848387098,
+    "mediaPico" : 210.759508,
+    "uptimeTotal" : 89503.0,
+    "uptimePico" : 91.0,
+    "contadorAcima95" : 1
+  }, {
+    "data" : "2021-01",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "disk_usage_gb",
+    "mediaGeral" : 40.26369456854838,
+    "mediaPico" : 175.161127,
+    "uptimeTotal" : 89503.0,
+    "uptimePico" : 42.5,
+    "contadorAcima95" : 1
+  }, {
+    "data" : "2021-01",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_download",
+    "mediaGeral" : 0.02787880241935484,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 89503.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2021-01",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_upload",
+    "mediaGeral" : 0.0027575954301075263,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 89503.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2021-01",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_usage",
+    "mediaGeral" : 83.41373953965055,
+    "mediaPico" : 123.21349648983949,
+    "uptimeTotal" : 89503.0,
+    "uptimePico" : 48569.5,
+    "contadorAcima95" : 524
+  }, {
+    "data" : "2021-01",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "ram_percent",
+    "mediaGeral" : 31.446260613575273,
+    "mediaPico" : 75.30073393,
+    "uptimeTotal" : 89503.0,
+    "uptimePico" : 3477.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2021-01",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "ram_usage_gb",
+    "mediaGeral" : 4.2154947452956995,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 89503.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2021-02",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "battery_percent",
+    "mediaGeral" : 69.90782566964285,
+    "mediaPico" : 86.53392016845227,
+    "uptimeTotal" : 100303.0,
+    "uptimePico" : 47099.5,
+    "contadorAcima95" : 176
+  }, {
+    "data" : "2021-02",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "cpu_freq",
+    "mediaGeral" : 2.964837928571428,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 100303.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2021-02",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "cpu_percent",
+    "mediaGeral" : 39.592146408482144,
+    "mediaPico" : 88.50070857559524,
+    "uptimeTotal" : 100303.0,
+    "uptimePico" : 10917.0,
+    "contadorAcima95" : 38
+  }, {
+    "data" : "2021-02",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "disk_percent",
+    "mediaGeral" : 50.74469626934523,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 100303.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2021-02",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "disk_usage_gb",
+    "mediaGeral" : 40.701980590773815,
+    "mediaPico" : 183.554383,
+    "uptimeTotal" : 100303.0,
+    "uptimePico" : 57.5,
+    "contadorAcima95" : 1
+  }, {
+    "data" : "2021-02",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_download",
+    "mediaGeral" : 0.028007249999999994,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 100303.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2021-02",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_upload",
+    "mediaGeral" : 0.002903328869047619,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 100303.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2021-02",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_usage",
+    "mediaGeral" : 82.76760997693452,
+    "mediaPico" : 123.45884981684283,
+    "uptimeTotal" : 100303.0,
+    "uptimePico" : 51582.0,
+    "contadorAcima95" : 498
+  }, {
+    "data" : "2021-02",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "ram_percent",
+    "mediaGeral" : 32.475165379464286,
+    "mediaPico" : 76.41195395166666,
+    "uptimeTotal" : 100303.0,
+    "uptimePico" : 4781.0,
+    "contadorAcima95" : 1
+  }, {
+    "data" : "2021-02",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "ram_usage_gb",
+    "mediaGeral" : 4.329614402529761,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 100303.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2021-03",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "battery_percent",
+    "mediaGeral" : 69.50528057795698,
+    "mediaPico" : 86.5411907431894,
+    "uptimeTotal" : 101777.0,
+    "uptimePico" : 47616.0,
+    "contadorAcima95" : 199
+  }, {
+    "data" : "2021-03",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "cpu_freq",
+    "mediaGeral" : 3.0353490221774195,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 101777.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2021-03",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "cpu_percent",
+    "mediaGeral" : 39.66009982123656,
+    "mediaPico" : 88.66413025008626,
+    "uptimeTotal" : 101777.0,
+    "uptimePico" : 10762.0,
+    "contadorAcima95" : 49
+  }, {
+    "data" : "2021-03",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "disk_percent",
+    "mediaGeral" : 51.42005894623656,
+    "mediaPico" : 189.54326700000001,
+    "uptimeTotal" : 101777.0,
+    "uptimePico" : 154.0,
+    "contadorAcima95" : 2
+  }, {
+    "data" : "2021-03",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "disk_usage_gb",
+    "mediaGeral" : 41.021770221102145,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 101777.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2021-03",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_download",
+    "mediaGeral" : 0.02792715053763441,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 101777.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2021-03",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_upload",
+    "mediaGeral" : 0.002826278897849462,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 101777.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2021-03",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_usage",
+    "mediaGeral" : 84.25633941599463,
+    "mediaPico" : 124.89449298222371,
+    "uptimeTotal" : 101777.0,
+    "uptimePico" : 53946.5,
+    "contadorAcima95" : 539
+  }, {
+    "data" : "2021-03",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "ram_percent",
+    "mediaGeral" : 33.02377584677419,
+    "mediaPico" : 75.68388249090911,
+    "uptimeTotal" : 101777.0,
+    "uptimePico" : 3829.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2021-03",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "ram_usage_gb",
+    "mediaGeral" : 4.390550276209677,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 101777.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2021-04",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "battery_percent",
+    "mediaGeral" : 66.15746534722226,
+    "mediaPico" : 85.33849338330266,
+    "uptimeTotal" : 122456.0,
+    "uptimePico" : 49996.5,
+    "contadorAcima95" : 139
+  }, {
+    "data" : "2021-04",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "cpu_freq",
+    "mediaGeral" : 3.032824003472222,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 122456.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2021-04",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "cpu_percent",
+    "mediaGeral" : 40.61965298888889,
+    "mediaPico" : 89.34101866800142,
+    "uptimeTotal" : 122456.0,
+    "uptimePico" : 13539.0,
+    "contadorAcima95" : 58
+  }, {
+    "data" : "2021-04",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "disk_percent",
+    "mediaGeral" : 52.01394077499999,
+    "mediaPico" : 232.94579249999998,
+    "uptimeTotal" : 122456.0,
+    "uptimePico" : 182.5,
+    "contadorAcima95" : 2
+  }, {
+    "data" : "2021-04",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "disk_usage_gb",
+    "mediaGeral" : 41.44502634027777,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 122456.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2021-04",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_download",
+    "mediaGeral" : 0.027465597222222228,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 122456.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2021-04",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_upload",
+    "mediaGeral" : 0.002839884722222222,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 122456.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2021-04",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_usage",
+    "mediaGeral" : 84.0358764395833,
+    "mediaPico" : 124.11917157915833,
+    "uptimeTotal" : 122456.0,
+    "uptimePico" : 66476.0,
+    "contadorAcima95" : 532
+  }, {
+    "data" : "2021-04",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "ram_percent",
+    "mediaGeral" : 33.134795581249996,
+    "mediaPico" : 78.78010985476192,
+    "uptimeTotal" : 122456.0,
+    "uptimePico" : 5166.5,
+    "contadorAcima95" : 1
+  }, {
+    "data" : "2021-04",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "ram_usage_gb",
+    "mediaGeral" : 4.364199197916667,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 122456.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2021-05",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "battery_percent",
+    "mediaGeral" : 67.83053877688174,
+    "mediaPico" : 85.46454391476783,
+    "uptimeTotal" : 122892.0,
+    "uptimePico" : 51255.0,
+    "contadorAcima95" : 163
+  }, {
+    "data" : "2021-05",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "cpu_freq",
+    "mediaGeral" : 2.976947257392472,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 122892.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2021-05",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "cpu_percent",
+    "mediaGeral" : 39.54744062970431,
+    "mediaPico" : 89.68056085130385,
+    "uptimeTotal" : 122892.0,
+    "uptimePico" : 11784.5,
+    "contadorAcima95" : 47
+  }, {
+    "data" : "2021-05",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "disk_percent",
+    "mediaGeral" : 52.335643930779575,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 122892.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2021-05",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "disk_usage_gb",
+    "mediaGeral" : 42.201343374327955,
+    "mediaPico" : 180.73706866666666,
+    "uptimeTotal" : 122892.0,
+    "uptimePico" : 93.5,
+    "contadorAcima95" : 3
+  }, {
+    "data" : "2021-05",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_download",
+    "mediaGeral" : 0.02733437634408602,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 122892.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2021-05",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_upload",
+    "mediaGeral" : 0.0027436256720430115,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 122892.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2021-05",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_usage",
+    "mediaGeral" : 84.21014908669355,
+    "mediaPico" : 124.6305331664731,
+    "uptimeTotal" : 122892.0,
+    "uptimePico" : 65646.5,
+    "contadorAcima95" : 533
+  }, {
+    "data" : "2021-05",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "ram_percent",
+    "mediaGeral" : 31.546382698252685,
+    "mediaPico" : 75.54460175238096,
+    "uptimeTotal" : 122892.0,
+    "uptimePico" : 4302.5,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2021-05",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "ram_usage_gb",
+    "mediaGeral" : 4.120164296370967,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 122892.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2021-06",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "battery_percent",
+    "mediaGeral" : 65.96488583333334,
+    "mediaPico" : 84.64569644233782,
+    "uptimeTotal" : 115056.0,
+    "uptimePico" : 45162.5,
+    "contadorAcima95" : 149
+  }, {
+    "data" : "2021-06",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "cpu_freq",
+    "mediaGeral" : 2.996788899305556,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 115056.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2021-06",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "cpu_percent",
+    "mediaGeral" : 39.65086169166667,
+    "mediaPico" : 89.45069393476106,
+    "uptimeTotal" : 115056.0,
+    "uptimePico" : 11178.0,
+    "contadorAcima95" : 51
+  }, {
+    "data" : "2021-06",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "disk_percent",
+    "mediaGeral" : 52.78330804722223,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 115056.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2021-06",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "disk_usage_gb",
+    "mediaGeral" : 42.363985052777785,
+    "mediaPico" : 162.470925,
+    "uptimeTotal" : 115056.0,
+    "uptimePico" : 127.0,
+    "contadorAcima95" : 1
+  }, {
+    "data" : "2021-06",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_download",
+    "mediaGeral" : 0.02795431458333333,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 115056.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2021-06",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_upload",
+    "mediaGeral" : 0.0028221187500000002,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 115056.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2021-06",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_usage",
+    "mediaGeral" : 83.99875671388887,
+    "mediaPico" : 125.86400278966511,
+    "uptimeTotal" : 115056.0,
+    "uptimePico" : 61282.0,
+    "contadorAcima95" : 514
+  }, {
+    "data" : "2021-06",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "ram_percent",
+    "mediaGeral" : 32.744755561805555,
+    "mediaPico" : 74.67895831984126,
+    "uptimeTotal" : 115056.0,
+    "uptimePico" : 4916.5,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2021-06",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "ram_usage_gb",
+    "mediaGeral" : 4.329832504861112,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 115056.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2021-07",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "battery_percent",
+    "mediaGeral" : 63.25916706989247,
+    "mediaPico" : 84.20899463826433,
+    "uptimeTotal" : 118028.0,
+    "uptimePico" : 44654.0,
+    "contadorAcima95" : 126
+  }, {
+    "data" : "2021-07",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "cpu_freq",
+    "mediaGeral" : 3.0152263830645154,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 118028.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2021-07",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "cpu_percent",
+    "mediaGeral" : 40.070140367607536,
+    "mediaPico" : 88.33139917080989,
+    "uptimeTotal" : 118028.0,
+    "uptimePico" : 13016.0,
+    "contadorAcima95" : 52
+  }, {
+    "data" : "2021-07",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "disk_percent",
+    "mediaGeral" : 53.36410978763441,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 118028.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2021-07",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "disk_usage_gb",
+    "mediaGeral" : 42.775212493951614,
+    "mediaPico" : 208.555923,
+    "uptimeTotal" : 118028.0,
+    "uptimePico" : 64.0,
+    "contadorAcima95" : 1
+  }, {
+    "data" : "2021-07",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_download",
+    "mediaGeral" : 0.027922688844086017,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 118028.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2021-07",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_upload",
+    "mediaGeral" : 0.0027683481182795696,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 118028.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2021-07",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_usage",
+    "mediaGeral" : 82.53797828561828,
+    "mediaPico" : 125.10598261226512,
+    "uptimeTotal" : 118028.0,
+    "uptimePico" : 61049.0,
+    "contadorAcima95" : 509
+  }, {
+    "data" : "2021-07",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "ram_percent",
+    "mediaGeral" : 32.05498540860215,
+    "mediaPico" : 75.7497672530303,
+    "uptimeTotal" : 118028.0,
+    "uptimePico" : 5937.5,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2021-07",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "ram_usage_gb",
+    "mediaGeral" : 4.315348972446237,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 118028.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2021-08",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "battery_percent",
+    "mediaGeral" : 50.824934811827966,
+    "mediaPico" : 82.63035185209289,
+    "uptimeTotal" : 103770.5,
+    "uptimePico" : 13419.5,
+    "contadorAcima95" : 73
+  }, {
+    "data" : "2021-08",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "cpu_freq",
+    "mediaGeral" : 3.0546410766129033,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 103770.5,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2021-08",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "cpu_percent",
+    "mediaGeral" : 40.79477004032258,
+    "mediaPico" : 98.71618974201486,
+    "uptimeTotal" : 103770.5,
+    "uptimePico" : 12041.5,
+    "contadorAcima95" : 71
+  }, {
+    "data" : "2021-08",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "disk_percent",
+    "mediaGeral" : 53.95230914650537,
+    "mediaPico" : 219.575545,
+    "uptimeTotal" : 103770.5,
+    "uptimePico" : 3.5,
+    "contadorAcima95" : 1
+  }, {
+    "data" : "2021-08",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "disk_usage_gb",
+    "mediaGeral" : 43.25981574865591,
+    "mediaPico" : 139.44856,
+    "uptimeTotal" : 103770.5,
+    "uptimePico" : 171.0,
+    "contadorAcima95" : 2
+  }, {
+    "data" : "2021-08",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_download",
+    "mediaGeral" : 0.027696519489247312,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 103770.5,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2021-08",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_upload",
+    "mediaGeral" : 0.002771326612903226,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 103770.5,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2021-08",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_usage",
+    "mediaGeral" : 81.90830737499999,
+    "mediaPico" : 124.28558060354807,
+    "uptimeTotal" : 103770.5,
+    "uptimePico" : 54311.0,
+    "contadorAcima95" : 530
+  }, {
+    "data" : "2021-08",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "ram_percent",
+    "mediaGeral" : 32.26821155645162,
+    "mediaPico" : 77.72760010075757,
+    "uptimeTotal" : 103770.5,
+    "uptimePico" : 4301.0,
+    "contadorAcima95" : 1
+  }, {
+    "data" : "2021-08",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "ram_usage_gb",
+    "mediaGeral" : 4.258272282258065,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 103770.5,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2021-09",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "battery_percent",
+    "mediaGeral" : 51.0345682638889,
+    "mediaPico" : 81.45223579967093,
+    "uptimeTotal" : 89348.5,
+    "uptimePico" : 13153.0,
+    "contadorAcima95" : 53
+  }, {
+    "data" : "2021-09",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "cpu_freq",
+    "mediaGeral" : 3.010726377777779,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 89348.5,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2021-09",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "cpu_percent",
+    "mediaGeral" : 40.96054132777779,
+    "mediaPico" : 88.56943723039814,
+    "uptimeTotal" : 89348.5,
+    "uptimePico" : 9316.0,
+    "contadorAcima95" : 55
+  }, {
+    "data" : "2021-09",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "disk_percent",
+    "mediaGeral" : 54.650762878472214,
+    "mediaPico" : 242.77453050000003,
+    "uptimeTotal" : 89348.5,
+    "uptimePico" : 142.5,
+    "contadorAcima95" : 2
+  }, {
+    "data" : "2021-09",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "disk_usage_gb",
+    "mediaGeral" : 43.5897622951389,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 89348.5,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2021-09",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_download",
+    "mediaGeral" : 0.02746086458333333,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 89348.5,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2021-09",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_upload",
+    "mediaGeral" : 0.002729394444444445,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 89348.5,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2021-09",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_usage",
+    "mediaGeral" : 82.23625791319442,
+    "mediaPico" : 122.92382313380186,
+    "uptimeTotal" : 89348.5,
+    "uptimePico" : 47452.5,
+    "contadorAcima95" : 504
+  }, {
+    "data" : "2021-09",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "ram_percent",
+    "mediaGeral" : 32.2177013888889,
+    "mediaPico" : 75.88752816349208,
+    "uptimeTotal" : 89348.5,
+    "uptimePico" : 3659.5,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2021-09",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "ram_usage_gb",
+    "mediaGeral" : 4.404800909722223,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 89348.5,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2021-10",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "battery_percent",
+    "mediaGeral" : 46.79601115591398,
+    "mediaPico" : 81.38362158596237,
+    "uptimeTotal" : 121788.0,
+    "uptimePico" : 8328.0,
+    "contadorAcima95" : 41
+  }, {
+    "data" : "2021-10",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "cpu_freq",
+    "mediaGeral" : 2.95825898454301,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 121788.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2021-10",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "cpu_percent",
+    "mediaGeral" : 39.58573922983871,
+    "mediaPico" : 88.0859975175359,
+    "uptimeTotal" : 121788.0,
+    "uptimePico" : 12380.0,
+    "contadorAcima95" : 48
+  }, {
+    "data" : "2021-10",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "disk_percent",
+    "mediaGeral" : 54.95148906451611,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 121788.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2021-10",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "disk_usage_gb",
+    "mediaGeral" : 43.95915774462366,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 121788.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2021-10",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_download",
+    "mediaGeral" : 0.028548625672043016,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 121788.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2021-10",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_upload",
+    "mediaGeral" : 0.002777960349462365,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 121788.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2021-10",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_usage",
+    "mediaGeral" : 83.33986787029569,
+    "mediaPico" : 126.84060593851729,
+    "uptimeTotal" : 121788.0,
+    "uptimePico" : 62645.5,
+    "contadorAcima95" : 525
+  }, {
+    "data" : "2021-10",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "ram_percent",
+    "mediaGeral" : 31.889042306451607,
+    "mediaPico" : 78.64275958571429,
+    "uptimeTotal" : 121788.0,
+    "uptimePico" : 5431.5,
+    "contadorAcima95" : 2
+  }, {
+    "data" : "2021-10",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "ram_usage_gb",
+    "mediaGeral" : 4.208046206317204,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 121788.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2021-11",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "battery_percent",
+    "mediaGeral" : 26.73079034722222,
+    "mediaPico" : 88.24255555555555,
+    "uptimeTotal" : 103466.0,
+    "uptimePico" : 490.5,
+    "contadorAcima95" : 6
+  }, {
+    "data" : "2021-11",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "cpu_freq",
+    "mediaGeral" : 4.251568140972221,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 103466.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2021-11",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "cpu_percent",
+    "mediaGeral" : 57.01086421874998,
+    "mediaPico" : 92.33946393181404,
+    "uptimeTotal" : 103466.0,
+    "uptimePico" : 33564.5,
+    "contadorAcima95" : 153
+  }, {
+    "data" : "2021-11",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "disk_percent",
+    "mediaGeral" : 55.393638986805556,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 103466.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2021-11",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "disk_usage_gb",
+    "mediaGeral" : 44.49812038958333,
+    "mediaPico" : 190.265599,
+    "uptimeTotal" : 103466.0,
+    "uptimePico" : 110.5,
+    "contadorAcima95" : 1
+  }, {
+    "data" : "2021-11",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_download",
+    "mediaGeral" : 0.028049482638888894,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 103466.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2021-11",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_upload",
+    "mediaGeral" : 0.002769227083333333,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 103466.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2021-11",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_usage",
+    "mediaGeral" : 83.63012690625001,
+    "mediaPico" : 126.45752115800673,
+    "uptimeTotal" : 103466.0,
+    "uptimePico" : 53591.5,
+    "contadorAcima95" : 513
+  }, {
+    "data" : "2021-11",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "ram_percent",
+    "mediaGeral" : 32.99671754236112,
+    "mediaPico" : 76.15343172316017,
+    "uptimeTotal" : 103466.0,
+    "uptimePico" : 5935.5,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2021-11",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "ram_usage_gb",
+    "mediaGeral" : 4.322785890277777,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 103466.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2021-12",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "battery_percent",
+    "mediaGeral" : 24.440265120967737,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 116988.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2021-12",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "cpu_freq",
+    "mediaGeral" : 4.259339432123655,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 116988.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2021-12",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "cpu_percent",
+    "mediaGeral" : 58.02769383669354,
+    "mediaPico" : 90.03485062016075,
+    "uptimeTotal" : 116988.0,
+    "uptimePico" : 40669.5,
+    "contadorAcima95" : 150
+  }, {
+    "data" : "2021-12",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "disk_percent",
+    "mediaGeral" : 55.86427676948922,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 116988.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2021-12",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "disk_usage_gb",
+    "mediaGeral" : 44.87677710954303,
+    "mediaPico" : 155.390854,
+    "uptimeTotal" : 116988.0,
+    "uptimePico" : 119.0,
+    "contadorAcima95" : 1
+  }, {
+    "data" : "2021-12",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_download",
+    "mediaGeral" : 0.02706176545698925,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 116988.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2021-12",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_upload",
+    "mediaGeral" : 0.002788854166666666,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 116988.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2021-12",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_usage",
+    "mediaGeral" : 83.95117283602148,
+    "mediaPico" : 123.20517354129909,
+    "uptimeTotal" : 116988.0,
+    "uptimePico" : 64187.0,
+    "contadorAcima95" : 537
+  }, {
+    "data" : "2021-12",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "ram_percent",
+    "mediaGeral" : 32.53161959475806,
+    "mediaPico" : 75.94791096904761,
+    "uptimeTotal" : 116988.0,
+    "uptimePico" : 4784.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2021-12",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "ram_usage_gb",
+    "mediaGeral" : 4.3941713776881715,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 116988.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2022-01",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "battery_percent",
+    "mediaGeral" : 46.779886491935486,
+    "mediaPico" : 81.47075946227787,
+    "uptimeTotal" : 107485.0,
+    "uptimePico" : 6959.5,
+    "contadorAcima95" : 46
+  }, {
+    "data" : "2022-01",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "cpu_freq",
+    "mediaGeral" : 2.9956254946236567,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 107485.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2022-01",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "cpu_percent",
+    "mediaGeral" : 39.499981140456995,
+    "mediaPico" : 90.5607483838384,
+    "uptimeTotal" : 107485.0,
+    "uptimePico" : 11039.0,
+    "contadorAcima95" : 50
+  }, {
+    "data" : "2022-01",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "disk_percent",
+    "mediaGeral" : 56.62284427352151,
+    "mediaPico" : 230.7093,
+    "uptimeTotal" : 107485.0,
+    "uptimePico" : 12.5,
+    "contadorAcima95" : 1
+  }, {
+    "data" : "2022-01",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "disk_usage_gb",
+    "mediaGeral" : 45.3017539045699,
+    "mediaPico" : 194.857131,
+    "uptimeTotal" : 107485.0,
+    "uptimePico" : 110.5,
+    "contadorAcima95" : 1
+  }, {
+    "data" : "2022-01",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_download",
+    "mediaGeral" : 0.028201707661290314,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 107485.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2022-01",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_upload",
+    "mediaGeral" : 0.002821567204301075,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 107485.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2022-01",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_usage",
+    "mediaGeral" : 84.07987575336023,
+    "mediaPico" : 124.99163598724242,
+    "uptimeTotal" : 107485.0,
+    "uptimePico" : 57548.5,
+    "contadorAcima95" : 545
+  }, {
+    "data" : "2022-01",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "ram_percent",
+    "mediaGeral" : 31.82542800604839,
+    "mediaPico" : 74.91927683730158,
+    "uptimeTotal" : 107485.0,
+    "uptimePico" : 5628.5,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2022-01",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "ram_usage_gb",
+    "mediaGeral" : 4.22035096438172,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 107485.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2022-02",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "battery_percent",
+    "mediaGeral" : 43.27797180059524,
+    "mediaPico" : 81.30100808460546,
+    "uptimeTotal" : 112176.0,
+    "uptimePico" : 6013.0,
+    "contadorAcima95" : 23
+  }, {
+    "data" : "2022-02",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "cpu_freq",
+    "mediaGeral" : 3.0092868675595246,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 112176.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2022-02",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "cpu_percent",
+    "mediaGeral" : 39.16999554241071,
+    "mediaPico" : 89.96977932525793,
+    "uptimeTotal" : 112176.0,
+    "uptimePico" : 10065.5,
+    "contadorAcima95" : 48
+  }, {
+    "data" : "2022-02",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "disk_percent",
+    "mediaGeral" : 57.10261551636904,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 112176.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2022-02",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "disk_usage_gb",
+    "mediaGeral" : 45.78183484747024,
+    "mediaPico" : 182.0178505,
+    "uptimeTotal" : 112176.0,
+    "uptimePico" : 201.5,
+    "contadorAcima95" : 2
+  }, {
+    "data" : "2022-02",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_download",
+    "mediaGeral" : 0.027765019345238093,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 112176.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2022-02",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_upload",
+    "mediaGeral" : 0.0028368928571428577,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 112176.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2022-02",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_usage",
+    "mediaGeral" : 88.09698012797618,
+    "mediaPico" : 126.83680384125175,
+    "uptimeTotal" : 112176.0,
+    "uptimePico" : 61806.0,
+    "contadorAcima95" : 521
+  }, {
+    "data" : "2022-02",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "ram_percent",
+    "mediaGeral" : 32.50202118526786,
+    "mediaPico" : 75.7738710406015,
+    "uptimeTotal" : 112176.0,
+    "uptimePico" : 4430.5,
+    "contadorAcima95" : 1
+  }, {
+    "data" : "2022-02",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "ram_usage_gb",
+    "mediaGeral" : 4.313539580357143,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 112176.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2022-03",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "battery_percent",
+    "mediaGeral" : 38.211988642473116,
+    "mediaPico" : 78.1023259598461,
+    "uptimeTotal" : 113589.5,
+    "uptimePico" : 3004.5,
+    "contadorAcima95" : 19
+  }, {
+    "data" : "2022-03",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "cpu_freq",
+    "mediaGeral" : 3.0240286075268816,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 113589.5,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2022-03",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "cpu_percent",
+    "mediaGeral" : 39.700317636424735,
+    "mediaPico" : 91.15615732242298,
+    "uptimeTotal" : 113589.5,
+    "uptimePico" : 11007.0,
+    "contadorAcima95" : 54
+  }, {
+    "data" : "2022-03",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "disk_percent",
+    "mediaGeral" : 57.51276990255377,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 113589.5,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2022-03",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "disk_usage_gb",
+    "mediaGeral" : 46.14406078696237,
+    "mediaPico" : 171.598003,
+    "uptimeTotal" : 113589.5,
+    "uptimePico" : 158.0,
+    "contadorAcima95" : 2
+  }, {
+    "data" : "2022-03",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_download",
+    "mediaGeral" : 0.027914487903225812,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 113589.5,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2022-03",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_upload",
+    "mediaGeral" : 0.0027865215053763438,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 113589.5,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2022-03",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_usage",
+    "mediaGeral" : 82.65605634408604,
+    "mediaPico" : 123.90059371858078,
+    "uptimeTotal" : 113589.5,
+    "uptimePico" : 59317.0,
+    "contadorAcima95" : 535
+  }, {
+    "data" : "2022-03",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "ram_percent",
+    "mediaGeral" : 32.748359699596776,
+    "mediaPico" : 77.315733225,
+    "uptimeTotal" : 113589.5,
+    "uptimePico" : 3458.5,
+    "contadorAcima95" : 1
+  }, {
+    "data" : "2022-03",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "ram_usage_gb",
+    "mediaGeral" : 4.41590467876344,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 113589.5,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2022-04",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "battery_percent",
+    "mediaGeral" : 35.76175868055555,
+    "mediaPico" : 76.46083774302495,
+    "uptimeTotal" : 116403.5,
+    "uptimePico" : 2672.5,
+    "contadorAcima95" : 3
+  }, {
+    "data" : "2022-04",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "cpu_freq",
+    "mediaGeral" : 3.009629463194444,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 116403.5,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2022-04",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "cpu_percent",
+    "mediaGeral" : 39.67732369999999,
+    "mediaPico" : 89.47798586082251,
+    "uptimeTotal" : 116403.5,
+    "uptimePico" : 10895.5,
+    "contadorAcima95" : 55
+  }, {
+    "data" : "2022-04",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "disk_percent",
+    "mediaGeral" : 57.98787085624999,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 116403.5,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2022-04",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "disk_usage_gb",
+    "mediaGeral" : 46.54691182083333,
+    "mediaPico" : 230.380053,
+    "uptimeTotal" : 116403.5,
+    "uptimePico" : 129.0,
+    "contadorAcima95" : 1
+  }, {
+    "data" : "2022-04",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_download",
+    "mediaGeral" : 0.027800800694444443,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 116403.5,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2022-04",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_upload",
+    "mediaGeral" : 0.0028307854166666675,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 116403.5,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2022-04",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_usage",
+    "mediaGeral" : 83.9855981340278,
+    "mediaPico" : 126.82235385201419,
+    "uptimeTotal" : 116403.5,
+    "uptimePico" : 61508.5,
+    "contadorAcima95" : 531
+  }, {
+    "data" : "2022-04",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "ram_percent",
+    "mediaGeral" : 31.666373422222218,
+    "mediaPico" : 74.7283162439815,
+    "uptimeTotal" : 116403.5,
+    "uptimePico" : 4598.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2022-04",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "ram_usage_gb",
+    "mediaGeral" : 4.177645547916668,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 116403.5,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2022-05",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "battery_percent",
+    "mediaGeral" : 35.83915087365592,
+    "mediaPico" : 78.63063986262404,
+    "uptimeTotal" : 100626.0,
+    "uptimePico" : 3250.5,
+    "contadorAcima95" : 10
+  }, {
+    "data" : "2022-05",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "cpu_freq",
+    "mediaGeral" : 2.947164109543011,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 100626.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2022-05",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "cpu_percent",
+    "mediaGeral" : 40.941874980510775,
+    "mediaPico" : 89.97585223868391,
+    "uptimeTotal" : 100626.0,
+    "uptimePico" : 10595.0,
+    "contadorAcima95" : 63
+  }, {
+    "data" : "2022-05",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "disk_percent",
+    "mediaGeral" : 58.525203108198916,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 100626.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2022-05",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "disk_usage_gb",
+    "mediaGeral" : 46.863349385752684,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 100626.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2022-05",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_download",
+    "mediaGeral" : 0.02727346572580645,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 100626.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2022-05",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_upload",
+    "mediaGeral" : 0.0028073797043010754,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 100626.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2022-05",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_usage",
+    "mediaGeral" : 84.01904959072581,
+    "mediaPico" : 123.32392460837066,
+    "uptimeTotal" : 100626.0,
+    "uptimePico" : 53638.5,
+    "contadorAcima95" : 548
+  }, {
+    "data" : "2022-05",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "ram_percent",
+    "mediaGeral" : 32.204882677419356,
+    "mediaPico" : 77.28901834621212,
+    "uptimeTotal" : 100626.0,
+    "uptimePico" : 4356.0,
+    "contadorAcima95" : 1
+  }, {
+    "data" : "2022-05",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "ram_usage_gb",
+    "mediaGeral" : 4.233277674059139,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 100626.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2022-06",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "battery_percent",
+    "mediaGeral" : 30.177687916666663,
+    "mediaPico" : 75.25097587662337,
+    "uptimeTotal" : 118452.5,
+    "uptimePico" : 1056.5,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2022-06",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "cpu_freq",
+    "mediaGeral" : 3.0202851916666678,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 118452.5,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2022-06",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "cpu_percent",
+    "mediaGeral" : 40.857722773611115,
+    "mediaPico" : 92.23995657555916,
+    "uptimeTotal" : 118452.5,
+    "uptimePico" : 13742.0,
+    "contadorAcima95" : 62
+  }, {
+    "data" : "2022-06",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "disk_percent",
+    "mediaGeral" : 59.07965406458332,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 118452.5,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2022-06",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "disk_usage_gb",
+    "mediaGeral" : 47.2459992236111,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 118452.5,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2022-06",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_download",
+    "mediaGeral" : 0.028179590277777774,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 118452.5,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2022-06",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_upload",
+    "mediaGeral" : 0.0027459354166666666,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 118452.5,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2022-06",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_usage",
+    "mediaGeral" : 84.8564343638889,
+    "mediaPico" : 124.55826830602051,
+    "uptimeTotal" : 118452.5,
+    "uptimePico" : 64313.5,
+    "contadorAcima95" : 518
+  }, {
+    "data" : "2022-06",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "ram_percent",
+    "mediaGeral" : 33.10970109930555,
+    "mediaPico" : 76.27527139761904,
+    "uptimeTotal" : 118452.5,
+    "uptimePico" : 5333.5,
+    "contadorAcima95" : 1
+  }, {
+    "data" : "2022-06",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "ram_usage_gb",
+    "mediaGeral" : 4.3571740000000005,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 118452.5,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2022-07",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "battery_percent",
+    "mediaGeral" : 31.911438508064517,
+    "mediaPico" : 76.92133561949744,
+    "uptimeTotal" : 115128.5,
+    "uptimePico" : 1230.0,
+    "contadorAcima95" : 4
+  }, {
+    "data" : "2022-07",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "cpu_freq",
+    "mediaGeral" : 3.0282437977150534,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 115128.5,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2022-07",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "cpu_percent",
+    "mediaGeral" : 39.05189246774193,
+    "mediaPico" : 89.37130386942556,
+    "uptimeTotal" : 115128.5,
+    "uptimePico" : 11294.5,
+    "contadorAcima95" : 55
+  }, {
+    "data" : "2022-07",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "disk_percent",
+    "mediaGeral" : 59.929047372311814,
+    "mediaPico" : 233.66902233333334,
+    "uptimeTotal" : 115128.5,
+    "uptimePico" : 237.0,
+    "contadorAcima95" : 3
+  }, {
+    "data" : "2022-07",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "disk_usage_gb",
+    "mediaGeral" : 47.68070265927419,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 115128.5,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2022-07",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_download",
+    "mediaGeral" : 0.028228647177419353,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 115128.5,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2022-07",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_upload",
+    "mediaGeral" : 0.0028543682795698923,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 115128.5,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2022-07",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_usage",
+    "mediaGeral" : 87.16719250537636,
+    "mediaPico" : 126.67894874194312,
+    "uptimeTotal" : 115128.5,
+    "uptimePico" : 62430.5,
+    "contadorAcima95" : 599
+  }, {
+    "data" : "2022-07",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "ram_percent",
+    "mediaGeral" : 31.275376887768818,
+    "mediaPico" : 77.61090810833333,
+    "uptimeTotal" : 115128.5,
+    "uptimePico" : 4775.0,
+    "contadorAcima95" : 1
+  }, {
+    "data" : "2022-07",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "ram_usage_gb",
+    "mediaGeral" : 4.153853758736559,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 115128.5,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2022-08",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "battery_percent",
+    "mediaGeral" : 30.16384314516129,
+    "mediaPico" : 76.09694674603175,
+    "uptimeTotal" : 120732.0,
+    "uptimePico" : 1402.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2022-08",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "cpu_freq",
+    "mediaGeral" : 3.0074283837365594,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 120732.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2022-08",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "cpu_percent",
+    "mediaGeral" : 40.27059048185483,
+    "mediaPico" : 87.80407179621369,
+    "uptimeTotal" : 120732.0,
+    "uptimePico" : 13461.0,
+    "contadorAcima95" : 48
+  }, {
+    "data" : "2022-08",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "disk_percent",
+    "mediaGeral" : 60.23453405981182,
+    "mediaPico" : 213.866892,
+    "uptimeTotal" : 120732.0,
+    "uptimePico" : 1.0,
+    "contadorAcima95" : 1
+  }, {
+    "data" : "2022-08",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "disk_usage_gb",
+    "mediaGeral" : 48.33338076411292,
+    "mediaPico" : 165.82270033333333,
+    "uptimeTotal" : 120732.0,
+    "uptimePico" : 294.0,
+    "contadorAcima95" : 3
+  }, {
+    "data" : "2022-08",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_download",
+    "mediaGeral" : 0.027519813844086024,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 120732.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2022-08",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_upload",
+    "mediaGeral" : 0.002768174059139785,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 120732.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2022-08",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_usage",
+    "mediaGeral" : 84.81755616868278,
+    "mediaPico" : 124.88112824316693,
+    "uptimeTotal" : 120732.0,
+    "uptimePico" : 65189.5,
+    "contadorAcima95" : 531
+  }, {
+    "data" : "2022-08",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "ram_percent",
+    "mediaGeral" : 33.6837191048387,
+    "mediaPico" : 74.81497886916665,
+    "uptimeTotal" : 120732.0,
+    "uptimePico" : 5489.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2022-08",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "ram_usage_gb",
+    "mediaGeral" : 4.32443167405914,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 120732.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2022-09",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "battery_percent",
+    "mediaGeral" : 28.498731388888885,
+    "mediaPico" : 77.56094194444445,
+    "uptimeTotal" : 103214.0,
+    "uptimePico" : 776.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2022-09",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "cpu_freq",
+    "mediaGeral" : 3.050869784722222,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 103214.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2022-09",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "cpu_percent",
+    "mediaGeral" : 40.144606421527776,
+    "mediaPico" : 90.10582494710906,
+    "uptimeTotal" : 103214.0,
+    "uptimePico" : 10383.5,
+    "contadorAcima95" : 66
+  }, {
+    "data" : "2022-09",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "disk_percent",
+    "mediaGeral" : 60.93089805833335,
+    "mediaPico" : 237.524037,
+    "uptimeTotal" : 103214.0,
+    "uptimePico" : 169.0,
+    "contadorAcima95" : 2
+  }, {
+    "data" : "2022-09",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "disk_usage_gb",
+    "mediaGeral" : 48.61584467638888,
+    "mediaPico" : 146.566632,
+    "uptimeTotal" : 103214.0,
+    "uptimePico" : 13.0,
+    "contadorAcima95" : 1
+  }, {
+    "data" : "2022-09",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_download",
+    "mediaGeral" : 0.02799348541666667,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 103214.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2022-09",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_upload",
+    "mediaGeral" : 0.0027673125000000007,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 103214.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2022-09",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_usage",
+    "mediaGeral" : 83.62062966944445,
+    "mediaPico" : 124.56184083602332,
+    "uptimeTotal" : 103214.0,
+    "uptimePico" : 54954.5,
+    "contadorAcima95" : 526
+  }, {
+    "data" : "2022-09",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "ram_percent",
+    "mediaGeral" : 32.50800711944444,
+    "mediaPico" : 75.67714920039683,
+    "uptimeTotal" : 103214.0,
+    "uptimePico" : 4547.5,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2022-09",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "ram_usage_gb",
+    "mediaGeral" : 4.312278472916666,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 103214.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2022-10",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "battery_percent",
+    "mediaGeral" : 28.6372440860215,
+    "mediaPico" : 72.26507395833333,
+    "uptimeTotal" : 115311.5,
+    "uptimePico" : 365.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2022-10",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "cpu_freq",
+    "mediaGeral" : 3.0067693346774194,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 115311.5,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2022-10",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "cpu_percent",
+    "mediaGeral" : 38.75076107594086,
+    "mediaPico" : 90.01061227038926,
+    "uptimeTotal" : 115311.5,
+    "uptimePico" : 10948.0,
+    "contadorAcima95" : 54
+  }, {
+    "data" : "2022-10",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "disk_percent",
+    "mediaGeral" : 61.233957932123666,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 115311.5,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2022-10",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "disk_usage_gb",
+    "mediaGeral" : 49.05156069959678,
+    "mediaPico" : 154.319673,
+    "uptimeTotal" : 115311.5,
+    "uptimePico" : 31.0,
+    "contadorAcima95" : 1
+  }, {
+    "data" : "2022-10",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_download",
+    "mediaGeral" : 0.027940669354838715,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 115311.5,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2022-10",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_upload",
+    "mediaGeral" : 0.0027817291666666663,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 115311.5,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2022-10",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_usage",
+    "mediaGeral" : 82.67857935685485,
+    "mediaPico" : 123.90752991570699,
+    "uptimeTotal" : 115311.5,
+    "uptimePico" : 58689.5,
+    "contadorAcima95" : 531
+  }, {
+    "data" : "2022-10",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "ram_percent",
+    "mediaGeral" : 30.791544281586024,
+    "mediaPico" : 75.04514775416666,
+    "uptimeTotal" : 115311.5,
+    "uptimePico" : 4910.5,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2022-10",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "ram_usage_gb",
+    "mediaGeral" : 4.170104002016129,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 115311.5,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2022-11",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "battery_percent",
+    "mediaGeral" : 19.953760069444442,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 119160.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2022-11",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "cpu_freq",
+    "mediaGeral" : 4.287328341666667,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 119160.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2022-11",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "cpu_percent",
+    "mediaGeral" : 56.536508068055554,
+    "mediaPico" : 90.65111645874535,
+    "uptimeTotal" : 119160.0,
+    "uptimePico" : 39133.0,
+    "contadorAcima95" : 143
+  }, {
+    "data" : "2022-11",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "disk_percent",
+    "mediaGeral" : 61.8095793423611,
+    "mediaPico" : 194.2972405,
+    "uptimeTotal" : 119160.0,
+    "uptimePico" : 188.5,
+    "contadorAcima95" : 2
+  }, {
+    "data" : "2022-11",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "disk_usage_gb",
+    "mediaGeral" : 49.51549979027778,
+    "mediaPico" : 172.08355,
+    "uptimeTotal" : 119160.0,
+    "uptimePico" : 137.5,
+    "contadorAcima95" : 2
+  }, {
+    "data" : "2022-11",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_download",
+    "mediaGeral" : 0.028447509722222222,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 119160.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2022-11",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_upload",
+    "mediaGeral" : 0.0028076006944444455,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 119160.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2022-11",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_usage",
+    "mediaGeral" : 84.37891810208336,
+    "mediaPico" : 124.59361928848946,
+    "uptimeTotal" : 119160.0,
+    "uptimePico" : 62349.0,
+    "contadorAcima95" : 529
+  }, {
+    "data" : "2022-11",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "ram_percent",
+    "mediaGeral" : 33.160481097222224,
+    "mediaPico" : 76.07369249848483,
+    "uptimeTotal" : 119160.0,
+    "uptimePico" : 5190.0,
+    "contadorAcima95" : 1
+  }, {
+    "data" : "2022-11",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "ram_usage_gb",
+    "mediaGeral" : 4.343206531250001,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 119160.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2022-12",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "battery_percent",
+    "mediaGeral" : 19.54823944892473,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 119964.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2022-12",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "cpu_freq",
+    "mediaGeral" : 4.180440088037635,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 119964.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2022-12",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "cpu_percent",
+    "mediaGeral" : 56.321891860887106,
+    "mediaPico" : 89.86232282619754,
+    "uptimeTotal" : 119964.0,
+    "uptimePico" : 36113.5,
+    "contadorAcima95" : 131
+  }, {
+    "data" : "2022-12",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "disk_percent",
+    "mediaGeral" : 62.24478232661291,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 119964.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2022-12",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "disk_usage_gb",
+    "mediaGeral" : 49.752436741263445,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 119964.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2022-12",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_download",
+    "mediaGeral" : 0.028422853494623652,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 119964.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2022-12",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_upload",
+    "mediaGeral" : 0.0028187298387096784,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 119964.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2022-12",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_usage",
+    "mediaGeral" : 83.21294320631722,
+    "mediaPico" : 122.3111518136631,
+    "uptimeTotal" : 119964.0,
+    "uptimePico" : 65079.5,
+    "contadorAcima95" : 527
+  }, {
+    "data" : "2022-12",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "ram_percent",
+    "mediaGeral" : 32.249176258736554,
+    "mediaPico" : 75.65866037727272,
+    "uptimeTotal" : 119964.0,
+    "uptimePico" : 6180.5,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2022-12",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "ram_usage_gb",
+    "mediaGeral" : 4.267924615591397,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 119964.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2023-01",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "battery_percent",
+    "mediaGeral" : 23.164562029569886,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 116112.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2023-01",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "cpu_freq",
+    "mediaGeral" : 3.0543849301075263,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 116112.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2023-01",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "cpu_percent",
+    "mediaGeral" : 40.19493171102151,
+    "mediaPico" : 90.35431118973992,
+    "uptimeTotal" : 116112.0,
+    "uptimePico" : 12620.0,
+    "contadorAcima95" : 65
+  }, {
+    "data" : "2023-01",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "disk_percent",
+    "mediaGeral" : 62.717775618279575,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 116112.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2023-01",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "disk_usage_gb",
+    "mediaGeral" : 50.234698935483884,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 116112.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2023-01",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_download",
+    "mediaGeral" : 0.027729516801075264,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 116112.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2023-01",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_upload",
+    "mediaGeral" : 0.0028345907258064515,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 116112.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2023-01",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_usage",
+    "mediaGeral" : 85.48653423857529,
+    "mediaPico" : 126.27915221713609,
+    "uptimeTotal" : 116112.0,
+    "uptimePico" : 62505.0,
+    "contadorAcima95" : 560
+  }, {
+    "data" : "2023-01",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "ram_percent",
+    "mediaGeral" : 32.18738168145161,
+    "mediaPico" : 75.40783423492064,
+    "uptimeTotal" : 116112.0,
+    "uptimePico" : 4217.5,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2023-01",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "ram_usage_gb",
+    "mediaGeral" : 4.2862118205645166,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 116112.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2023-02",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "battery_percent",
+    "mediaGeral" : 22.852128720238095,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 107688.5,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2023-02",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "cpu_freq",
+    "mediaGeral" : 3.0266320863095237,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 107688.5,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2023-02",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "cpu_percent",
+    "mediaGeral" : 40.02290798735119,
+    "mediaPico" : 88.03966306468253,
+    "uptimeTotal" : 107688.5,
+    "uptimePico" : 11392.5,
+    "contadorAcima95" : 46
+  }, {
+    "data" : "2023-02",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "disk_percent",
+    "mediaGeral" : 63.470129402529764,
+    "mediaPico" : 306.248463,
+    "uptimeTotal" : 107688.5,
+    "uptimePico" : 47.0,
+    "contadorAcima95" : 1
+  }, {
+    "data" : "2023-02",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "disk_usage_gb",
+    "mediaGeral" : 50.60375728199404,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 107688.5,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2023-02",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_download",
+    "mediaGeral" : 0.027496508928571424,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 107688.5,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2023-02",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_upload",
+    "mediaGeral" : 0.002779581101190476,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 107688.5,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2023-02",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_usage",
+    "mediaGeral" : 82.06450719642855,
+    "mediaPico" : 124.6127049949365,
+    "uptimeTotal" : 107688.5,
+    "uptimePico" : 54353.5,
+    "contadorAcima95" : 482
+  }, {
+    "data" : "2023-02",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "ram_percent",
+    "mediaGeral" : 31.788436886160717,
+    "mediaPico" : 75.63807614000002,
+    "uptimeTotal" : 107688.5,
+    "uptimePico" : 4428.5,
+    "contadorAcima95" : 1
+  }, {
+    "data" : "2023-02",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "ram_usage_gb",
+    "mediaGeral" : 4.30936165922619,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 107688.5,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2023-03",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "battery_percent",
+    "mediaGeral" : 22.63394529569893,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 127644.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2023-03",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "cpu_freq",
+    "mediaGeral" : 3.0011758561827953,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 127644.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2023-03",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "cpu_percent",
+    "mediaGeral" : 39.563492943548376,
+    "mediaPico" : 88.50424549580747,
+    "uptimeTotal" : 127644.0,
+    "uptimePico" : 12161.0,
+    "contadorAcima95" : 47
+  }, {
+    "data" : "2023-03",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "disk_percent",
+    "mediaGeral" : 63.722707047043016,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 127644.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2023-03",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "disk_usage_gb",
+    "mediaGeral" : 50.976617356182786,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 127644.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2023-03",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_download",
+    "mediaGeral" : 0.028833606182795703,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 127644.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2023-03",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_upload",
+    "mediaGeral" : 0.002802774193548388,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 127644.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2023-03",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_usage",
+    "mediaGeral" : 84.44523826478495,
+    "mediaPico" : 124.55697815935784,
+    "uptimeTotal" : 127644.0,
+    "uptimePico" : 69547.5,
+    "contadorAcima95" : 552
+  }, {
+    "data" : "2023-03",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "ram_percent",
+    "mediaGeral" : 33.35955755645161,
+    "mediaPico" : 77.82089377391303,
+    "uptimeTotal" : 127644.0,
+    "uptimePico" : 6779.5,
+    "contadorAcima95" : 1
+  }, {
+    "data" : "2023-03",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "ram_usage_gb",
+    "mediaGeral" : 4.35049923655914,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 127644.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2023-04",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "battery_percent",
+    "mediaGeral" : 21.78666972222222,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 93261.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2023-04",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "cpu_freq",
+    "mediaGeral" : 3.048508893055556,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 93261.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2023-04",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "cpu_percent",
+    "mediaGeral" : 39.643473818055554,
+    "mediaPico" : 88.55339874059523,
+    "uptimeTotal" : 93261.0,
+    "uptimePico" : 8714.0,
+    "contadorAcima95" : 43
+  }, {
+    "data" : "2023-04",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "disk_percent",
+    "mediaGeral" : 64.25068042916665,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 93261.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2023-04",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "disk_usage_gb",
+    "mediaGeral" : 51.672419538194454,
+    "mediaPico" : 206.6075505,
+    "uptimeTotal" : 93261.0,
+    "uptimePico" : 129.5,
+    "contadorAcima95" : 2
+  }, {
+    "data" : "2023-04",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_download",
+    "mediaGeral" : 0.02810428333333333,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 93261.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2023-04",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_upload",
+    "mediaGeral" : 0.0027557243055555554,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 93261.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2023-04",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_usage",
+    "mediaGeral" : 86.01762338472221,
+    "mediaPico" : 128.00102219347966,
+    "uptimeTotal" : 93261.0,
+    "uptimePico" : 50798.5,
+    "contadorAcima95" : 531
+  }, {
+    "data" : "2023-04",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "ram_percent",
+    "mediaGeral" : 31.17711359513889,
+    "mediaPico" : 75.38092440588235,
+    "uptimeTotal" : 93261.0,
+    "uptimePico" : 3267.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2023-04",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "ram_usage_gb",
+    "mediaGeral" : 4.144168525694445,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 93261.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2023-05",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "battery_percent",
+    "mediaGeral" : 21.051468077956986,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 110307.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2023-05",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "cpu_freq",
+    "mediaGeral" : 3.049590444892472,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 110307.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2023-05",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "cpu_percent",
+    "mediaGeral" : 39.619321682123655,
+    "mediaPico" : 87.64789363888889,
+    "uptimeTotal" : 110307.0,
+    "uptimePico" : 11130.5,
+    "contadorAcima95" : 45
+  }, {
+    "data" : "2023-05",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "disk_percent",
+    "mediaGeral" : 64.84718587634408,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 110307.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2023-05",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "disk_usage_gb",
+    "mediaGeral" : 52.098571353494634,
+    "mediaPico" : 217.5390185,
+    "uptimeTotal" : 110307.0,
+    "uptimePico" : 150.5,
+    "contadorAcima95" : 2
+  }, {
+    "data" : "2023-05",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_download",
+    "mediaGeral" : 0.02862928897849463,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 110307.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2023-05",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_upload",
+    "mediaGeral" : 0.002778967741935484,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 110307.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2023-05",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_usage",
+    "mediaGeral" : 82.89624894959677,
+    "mediaPico" : 123.90453470715893,
+    "uptimeTotal" : 110307.0,
+    "uptimePico" : 58463.5,
+    "contadorAcima95" : 536
+  }, {
+    "data" : "2023-05",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "ram_percent",
+    "mediaGeral" : 32.69504686223118,
+    "mediaPico" : 75.90227840530301,
+    "uptimeTotal" : 110307.0,
+    "uptimePico" : 4270.5,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2023-05",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "ram_usage_gb",
+    "mediaGeral" : 4.426668959677418,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 110307.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2023-06",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "battery_percent",
+    "mediaGeral" : 20.45656131944445,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 114128.5,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2023-06",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "cpu_freq",
+    "mediaGeral" : 2.978181327777777,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 114128.5,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2023-06",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "cpu_percent",
+    "mediaGeral" : 40.30912973541665,
+    "mediaPico" : 88.8929094332612,
+    "uptimeTotal" : 114128.5,
+    "uptimePico" : 13373.5,
+    "contadorAcima95" : 52
+  }, {
+    "data" : "2023-06",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "disk_percent",
+    "mediaGeral" : 65.45808277222223,
+    "mediaPico" : 231.034247,
+    "uptimeTotal" : 114128.5,
+    "uptimePico" : 99.0,
+    "contadorAcima95" : 1
+  }, {
+    "data" : "2023-06",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "disk_usage_gb",
+    "mediaGeral" : 52.49783073472222,
+    "mediaPico" : 190.917809,
+    "uptimeTotal" : 114128.5,
+    "uptimePico" : 161.5,
+    "contadorAcima95" : 2
+  }, {
+    "data" : "2023-06",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_download",
+    "mediaGeral" : 0.02900303680555556,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 114128.5,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2023-06",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_upload",
+    "mediaGeral" : 0.0028185548611111117,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 114128.5,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2023-06",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_usage",
+    "mediaGeral" : 82.44703914999998,
+    "mediaPico" : 122.61551194960978,
+    "uptimeTotal" : 114128.5,
+    "uptimePico" : 63346.0,
+    "contadorAcima95" : 517
+  }, {
+    "data" : "2023-06",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "ram_percent",
+    "mediaGeral" : 32.56438729930555,
+    "mediaPico" : 77.18172347063494,
+    "uptimeTotal" : 114128.5,
+    "uptimePico" : 4043.0,
+    "contadorAcima95" : 1
+  }, {
+    "data" : "2023-06",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "ram_usage_gb",
+    "mediaGeral" : 4.371401472222222,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 114128.5,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2023-07",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "battery_percent",
+    "mediaGeral" : 20.119246639784947,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 92447.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2023-07",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "cpu_freq",
+    "mediaGeral" : 2.9954716760752693,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 92447.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2023-07",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "cpu_percent",
+    "mediaGeral" : 39.915866709005364,
+    "mediaPico" : 89.70551850615259,
+    "uptimeTotal" : 92447.0,
+    "uptimePico" : 9958.0,
+    "contadorAcima95" : 55
+  }, {
+    "data" : "2023-07",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "disk_percent",
+    "mediaGeral" : 65.75277158736561,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 92447.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2023-07",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "disk_usage_gb",
+    "mediaGeral" : 52.69545354637096,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 92447.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2023-07",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_download",
+    "mediaGeral" : 0.027879645833333327,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 92447.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2023-07",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_upload",
+    "mediaGeral" : 0.002892995967741935,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 92447.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2023-07",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_usage",
+    "mediaGeral" : 84.04112296169355,
+    "mediaPico" : 125.09189312590719,
+    "uptimeTotal" : 92447.0,
+    "uptimePico" : 49975.5,
+    "contadorAcima95" : 547
+  }, {
+    "data" : "2023-07",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "ram_percent",
+    "mediaGeral" : 31.64690827688172,
+    "mediaPico" : 77.77703905833334,
+    "uptimeTotal" : 92447.0,
+    "uptimePico" : 4643.0,
+    "contadorAcima95" : 1
+  }, {
+    "data" : "2023-07",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "ram_usage_gb",
+    "mediaGeral" : 4.249319802419355,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 92447.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2023-08",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "battery_percent",
+    "mediaGeral" : 19.238996706989248,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 114594.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2023-08",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "cpu_freq",
+    "mediaGeral" : 3.016540524865591,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 114594.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2023-08",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "cpu_percent",
+    "mediaGeral" : 40.75549534744623,
+    "mediaPico" : 88.02090489453046,
+    "uptimeTotal" : 114594.0,
+    "uptimePico" : 13282.5,
+    "contadorAcima95" : 56
+  }, {
+    "data" : "2023-08",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "disk_percent",
+    "mediaGeral" : 66.6188364482527,
+    "mediaPico" : 283.569599,
+    "uptimeTotal" : 114594.0,
+    "uptimePico" : 148.0,
+    "contadorAcima95" : 2
+  }, {
+    "data" : "2023-08",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "disk_usage_gb",
+    "mediaGeral" : 53.231977883064516,
+    "mediaPico" : 245.857257,
+    "uptimeTotal" : 114594.0,
+    "uptimePico" : 1.0,
+    "contadorAcima95" : 1
+  }, {
+    "data" : "2023-08",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_download",
+    "mediaGeral" : 0.027435417338709675,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 114594.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2023-08",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_upload",
+    "mediaGeral" : 0.002785990591397849,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 114594.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2023-08",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_usage",
+    "mediaGeral" : 84.65486707258063,
+    "mediaPico" : 122.22217790532262,
+    "uptimeTotal" : 114594.0,
+    "uptimePico" : 64118.5,
+    "contadorAcima95" : 560
+  }, {
+    "data" : "2023-08",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "ram_percent",
+    "mediaGeral" : 33.26440391061828,
+    "mediaPico" : 78.00745247121212,
+    "uptimeTotal" : 114594.0,
+    "uptimePico" : 5387.0,
+    "contadorAcima95" : 2
+  }, {
+    "data" : "2023-08",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "ram_usage_gb",
+    "mediaGeral" : 4.379840350134408,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 114594.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2023-09",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "battery_percent",
+    "mediaGeral" : 19.644299791666665,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 116232.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2023-09",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "cpu_freq",
+    "mediaGeral" : 3.0787158715277783,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 116232.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2023-09",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "cpu_percent",
+    "mediaGeral" : 39.25455602500001,
+    "mediaPico" : 87.82592468864324,
+    "uptimeTotal" : 116232.0,
+    "uptimePico" : 10496.0,
+    "contadorAcima95" : 42
+  }, {
+    "data" : "2023-09",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "disk_percent",
+    "mediaGeral" : 67.1028143701389,
+    "mediaPico" : 71.33850903126293,
+    "uptimeTotal" : 116232.0,
+    "uptimePico" : 4798.5,
+    "contadorAcima95" : 1
+  }, {
+    "data" : "2023-09",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "disk_usage_gb",
+    "mediaGeral" : 53.45252966736112,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 116232.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2023-09",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_download",
+    "mediaGeral" : 0.027151587500000005,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 116232.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2023-09",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_upload",
+    "mediaGeral" : 0.0027456180555555545,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 116232.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2023-09",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_usage",
+    "mediaGeral" : 85.97077686458333,
+    "mediaPico" : 125.54874825957657,
+    "uptimeTotal" : 116232.0,
+    "uptimePico" : 64950.0,
+    "contadorAcima95" : 540
+  }, {
+    "data" : "2023-09",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "ram_percent",
+    "mediaGeral" : 31.389247323611116,
+    "mediaPico" : 75.05104320166669,
+    "uptimeTotal" : 116232.0,
+    "uptimePico" : 4443.5,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2023-09",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "ram_usage_gb",
+    "mediaGeral" : 4.305003572916667,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 116232.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2023-10",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "battery_percent",
+    "mediaGeral" : 18.861104838709675,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 118284.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2023-10",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "cpu_freq",
+    "mediaGeral" : 3.0430437520161293,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 118284.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2023-10",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "cpu_percent",
+    "mediaGeral" : 39.9853277157258,
+    "mediaPico" : 88.76967959296536,
+    "uptimeTotal" : 118284.0,
+    "uptimePico" : 11809.5,
+    "contadorAcima95" : 49
+  }, {
+    "data" : "2023-10",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "disk_percent",
+    "mediaGeral" : 67.4180968514785,
+    "mediaPico" : 70.4254449406298,
+    "uptimeTotal" : 118284.0,
+    "uptimePico" : 13598.5,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2023-10",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "disk_usage_gb",
+    "mediaGeral" : 54.008266268145164,
+    "mediaPico" : 199.737493,
+    "uptimeTotal" : 118284.0,
+    "uptimePico" : 105.5,
+    "contadorAcima95" : 1
+  }, {
+    "data" : "2023-10",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_download",
+    "mediaGeral" : 0.02813747446236559,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 118284.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2023-10",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_upload",
+    "mediaGeral" : 0.002848595430107527,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 118284.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2023-10",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_usage",
+    "mediaGeral" : 83.80377385483872,
+    "mediaPico" : 125.49674575376771,
+    "uptimeTotal" : 118284.0,
+    "uptimePico" : 63307.5,
+    "contadorAcima95" : 537
+  }, {
+    "data" : "2023-10",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "ram_percent",
+    "mediaGeral" : 32.54027953293011,
+    "mediaPico" : 75.87401935079366,
+    "uptimeTotal" : 118284.0,
+    "uptimePico" : 4377.5,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2023-10",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "ram_usage_gb",
+    "mediaGeral" : 4.257379587365592,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 118284.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2023-11",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "battery_percent",
+    "mediaGeral" : 15.05937291666667,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 121464.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2023-11",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "cpu_freq",
+    "mediaGeral" : 4.25789739375,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 121464.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2023-11",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "cpu_percent",
+    "mediaGeral" : 56.89457413541667,
+    "mediaPico" : 90.9527424828597,
+    "uptimeTotal" : 121464.0,
+    "uptimePico" : 37564.0,
+    "contadorAcima95" : 136
+  }, {
+    "data" : "2023-11",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "disk_percent",
+    "mediaGeral" : 67.87114562986112,
+    "mediaPico" : 70.68615862233769,
+    "uptimeTotal" : 121464.0,
+    "uptimePico" : 22996.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2023-11",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "disk_usage_gb",
+    "mediaGeral" : 54.35899004513889,
+    "mediaPico" : 167.273125,
+    "uptimeTotal" : 121464.0,
+    "uptimePico" : 159.5,
+    "contadorAcima95" : 1
+  }, {
+    "data" : "2023-11",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_download",
+    "mediaGeral" : 0.027692107638888887,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 121464.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2023-11",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_upload",
+    "mediaGeral" : 0.002829434722222223,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 121464.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2023-11",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_usage",
+    "mediaGeral" : 84.44841005555556,
+    "mediaPico" : 126.74835047729101,
+    "uptimeTotal" : 121464.0,
+    "uptimePico" : 64814.0,
+    "contadorAcima95" : 527
+  }, {
+    "data" : "2023-11",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "ram_percent",
+    "mediaGeral" : 32.32068948333333,
+    "mediaPico" : 76.58992656666668,
+    "uptimeTotal" : 121464.0,
+    "uptimePico" : 4474.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2023-11",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "ram_usage_gb",
+    "mediaGeral" : 4.36712787013889,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 121464.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2023-12",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "battery_percent",
+    "mediaGeral" : 15.221964852150538,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 117438.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2023-12",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "cpu_freq",
+    "mediaGeral" : 4.154233100806453,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 117438.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2023-12",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "cpu_percent",
+    "mediaGeral" : 56.112540966397844,
+    "mediaPico" : 89.43631508723362,
+    "uptimeTotal" : 117438.0,
+    "uptimePico" : 38604.5,
+    "contadorAcima95" : 149
+  }, {
+    "data" : "2023-12",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "disk_percent",
+    "mediaGeral" : 68.462274390457,
+    "mediaPico" : 70.9558294496207,
+    "uptimeTotal" : 117438.0,
+    "uptimePico" : 33002.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2023-12",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "disk_usage_gb",
+    "mediaGeral" : 54.941900331989245,
+    "mediaPico" : 235.157576,
+    "uptimeTotal" : 117438.0,
+    "uptimePico" : 53.0,
+    "contadorAcima95" : 1
+  }, {
+    "data" : "2023-12",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_download",
+    "mediaGeral" : 0.027988568548387098,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 117438.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2023-12",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_upload",
+    "mediaGeral" : 0.0027794751344086023,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 117438.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2023-12",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_usage",
+    "mediaGeral" : 84.05987192271506,
+    "mediaPico" : 124.94331394363951,
+    "uptimeTotal" : 117438.0,
+    "uptimePico" : 63107.0,
+    "contadorAcima95" : 566
+  }, {
+    "data" : "2023-12",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "ram_percent",
+    "mediaGeral" : 31.61063109072581,
+    "mediaPico" : 75.95842075250002,
+    "uptimeTotal" : 117438.0,
+    "uptimePico" : 4544.5,
+    "contadorAcima95" : 1
+  }, {
+    "data" : "2023-12",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "ram_usage_gb",
+    "mediaGeral" : 4.2456237043010745,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 117438.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2024-01",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "battery_percent",
+    "mediaGeral" : 16.958358064516126,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 95247.5,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2024-01",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "cpu_freq",
+    "mediaGeral" : 3.0419086404569904,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 95247.5,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2024-01",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "cpu_percent",
+    "mediaGeral" : 41.30298997311827,
+    "mediaPico" : 89.99691727231634,
+    "uptimeTotal" : 95247.5,
+    "uptimePico" : 11069.0,
+    "contadorAcima95" : 53
+  }, {
+    "data" : "2024-01",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "disk_percent",
+    "mediaGeral" : 69.46063045430108,
+    "mediaPico" : 72.43954766920916,
+    "uptimeTotal" : 95247.5,
+    "uptimePico" : 35147.0,
+    "contadorAcima95" : 3
+  }, {
+    "data" : "2024-01",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "disk_usage_gb",
+    "mediaGeral" : 55.15293046370969,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 95247.5,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2024-01",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_download",
+    "mediaGeral" : 0.028751203629032263,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 95247.5,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2024-01",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_upload",
+    "mediaGeral" : 0.0027483696236559143,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 95247.5,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2024-01",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_usage",
+    "mediaGeral" : 83.37054872110215,
+    "mediaPico" : 123.29997897336676,
+    "uptimeTotal" : 95247.5,
+    "uptimePico" : 51839.0,
+    "contadorAcima95" : 545
+  }, {
+    "data" : "2024-01",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "ram_percent",
+    "mediaGeral" : 33.035595204301075,
+    "mediaPico" : 74.28319249275363,
+    "uptimeTotal" : 95247.5,
+    "uptimePico" : 3529.5,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2024-01",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "ram_usage_gb",
+    "mediaGeral" : 4.457194570564516,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 95247.5,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2024-02",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "battery_percent",
+    "mediaGeral" : 16.854486853448275,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 106165.5,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2024-02",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "cpu_freq",
+    "mediaGeral" : 3.0586436422413796,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 106165.5,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2024-02",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "cpu_percent",
+    "mediaGeral" : 40.1472882033046,
+    "mediaPico" : 87.79599660548683,
+    "uptimeTotal" : 106165.5,
+    "uptimePico" : 11128.5,
+    "contadorAcima95" : 43
+  }, {
+    "data" : "2024-02",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "disk_percent",
+    "mediaGeral" : 69.61986764583332,
+    "mediaPico" : 71.82771405001832,
+    "uptimeTotal" : 106165.5,
+    "uptimePico" : 45570.5,
+    "contadorAcima95" : 1
+  }, {
+    "data" : "2024-02",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "disk_usage_gb",
+    "mediaGeral" : 55.77009892456896,
+    "mediaPico" : 232.990846,
+    "uptimeTotal" : 106165.5,
+    "uptimePico" : 140.5,
+    "contadorAcima95" : 1
+  }, {
+    "data" : "2024-02",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_download",
+    "mediaGeral" : 0.029071906609195407,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 106165.5,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2024-02",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_upload",
+    "mediaGeral" : 0.0027434123563218385,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 106165.5,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2024-02",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_usage",
+    "mediaGeral" : 83.00249949281607,
+    "mediaPico" : 122.86123462339769,
+    "uptimeTotal" : 106165.5,
+    "uptimePico" : 57187.5,
+    "contadorAcima95" : 485
+  }, {
+    "data" : "2024-02",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "ram_percent",
+    "mediaGeral" : 31.987435847701146,
+    "mediaPico" : 75.17577265249999,
+    "uptimeTotal" : 106165.5,
+    "uptimePico" : 4145.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2024-02",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "ram_usage_gb",
+    "mediaGeral" : 4.37284323204023,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 106165.5,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2024-03",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "battery_percent",
+    "mediaGeral" : 16.989164180107522,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 98772.5,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2024-03",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "cpu_freq",
+    "mediaGeral" : 2.9769151888440857,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 98772.5,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2024-03",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "cpu_percent",
+    "mediaGeral" : 38.92280200268816,
+    "mediaPico" : 89.92379991177248,
+    "uptimeTotal" : 98772.5,
+    "uptimePico" : 9406.0,
+    "contadorAcima95" : 55
+  }, {
+    "data" : "2024-03",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "disk_percent",
+    "mediaGeral" : 70.01717720094086,
+    "mediaPico" : 71.74336406698383,
+    "uptimeTotal" : 98772.5,
+    "uptimePico" : 48812.5,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2024-03",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "disk_usage_gb",
+    "mediaGeral" : 56.024096975806465,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 98772.5,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2024-03",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_download",
+    "mediaGeral" : 0.02852011693548387,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 98772.5,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2024-03",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_upload",
+    "mediaGeral" : 0.002757284274193548,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 98772.5,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2024-03",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_usage",
+    "mediaGeral" : 84.18526759274197,
+    "mediaPico" : 127.4983712774063,
+    "uptimeTotal" : 98772.5,
+    "uptimePico" : 51766.0,
+    "contadorAcima95" : 532
+  }, {
+    "data" : "2024-03",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "ram_percent",
+    "mediaGeral" : 31.578485540322575,
+    "mediaPico" : 75.89687827494333,
+    "uptimeTotal" : 98772.5,
+    "uptimePico" : 3570.5,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2024-03",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "ram_usage_gb",
+    "mediaGeral" : 4.21486229905914,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 98772.5,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2024-04",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "battery_percent",
+    "mediaGeral" : 16.178788819444446,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 116856.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2024-04",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "cpu_freq",
+    "mediaGeral" : 3.08365215763889,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 116856.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2024-04",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "cpu_percent",
+    "mediaGeral" : 40.541184672916664,
+    "mediaPico" : 87.8511186536485,
+    "uptimeTotal" : 116856.0,
+    "uptimePico" : 12427.0,
+    "contadorAcima95" : 42
+  }, {
+    "data" : "2024-04",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "disk_percent",
+    "mediaGeral" : 70.4975040486111,
+    "mediaPico" : 71.96802878895538,
+    "uptimeTotal" : 116856.0,
+    "uptimePico" : 67398.5,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2024-04",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "disk_usage_gb",
+    "mediaGeral" : 56.458635498611116,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 116856.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2024-04",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_download",
+    "mediaGeral" : 0.029105869444444443,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 116856.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2024-04",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_upload",
+    "mediaGeral" : 0.002786609722222222,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 116856.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2024-04",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_usage",
+    "mediaGeral" : 82.5763181576389,
+    "mediaPico" : 123.07156913113525,
+    "uptimeTotal" : 116856.0,
+    "uptimePico" : 62584.0,
+    "contadorAcima95" : 505
+  }, {
+    "data" : "2024-04",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "ram_percent",
+    "mediaGeral" : 32.95122541597222,
+    "mediaPico" : 76.02383635451126,
+    "uptimeTotal" : 116856.0,
+    "uptimePico" : 5202.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2024-04",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "ram_usage_gb",
+    "mediaGeral" : 4.317292691666667,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 116856.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2024-05",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "battery_percent",
+    "mediaGeral" : 15.276511626344087,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 127644.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2024-05",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "cpu_freq",
+    "mediaGeral" : 3.0448243333333336,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 127644.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2024-05",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "cpu_percent",
+    "mediaGeral" : 40.63093363373656,
+    "mediaPico" : 88.28335110068072,
+    "uptimeTotal" : 127644.0,
+    "uptimePico" : 14016.5,
+    "contadorAcima95" : 58
+  }, {
+    "data" : "2024-05",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "disk_percent",
+    "mediaGeral" : 71.17536910483874,
+    "mediaPico" : 72.53592059386823,
+    "uptimeTotal" : 127644.0,
+    "uptimePico" : 81758.5,
+    "contadorAcima95" : 1
+  }, {
+    "data" : "2024-05",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "disk_usage_gb",
+    "mediaGeral" : 57.10670192204301,
+    "mediaPico" : 242.532043,
+    "uptimeTotal" : 127644.0,
+    "uptimePico" : 105.5,
+    "contadorAcima95" : 1
+  }, {
+    "data" : "2024-05",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_download",
+    "mediaGeral" : 0.02817979233870968,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 127644.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2024-05",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_upload",
+    "mediaGeral" : 0.002774217741935483,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 127644.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2024-05",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_usage",
+    "mediaGeral" : 84.4997613689516,
+    "mediaPico" : 124.7207634648612,
+    "uptimeTotal" : 127644.0,
+    "uptimePico" : 66670.5,
+    "contadorAcima95" : 542
+  }, {
+    "data" : "2024-05",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "ram_percent",
+    "mediaGeral" : 33.045457919354845,
+    "mediaPico" : 76.65132005238095,
+    "uptimeTotal" : 127644.0,
+    "uptimePico" : 5312.0,
+    "contadorAcima95" : 1
+  }, {
+    "data" : "2024-05",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "ram_usage_gb",
+    "mediaGeral" : 4.405908438172044,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 127644.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2024-06",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "battery_percent",
+    "mediaGeral" : 15.63404888888889,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 109658.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2024-06",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "cpu_freq",
+    "mediaGeral" : 2.9562833444444445,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 109658.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2024-06",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "cpu_percent",
+    "mediaGeral" : 39.93399887708335,
+    "mediaPico" : 90.85319602565478,
+    "uptimeTotal" : 109658.0,
+    "uptimePico" : 11278.5,
+    "contadorAcima95" : 65
+  }, {
+    "data" : "2024-06",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "disk_percent",
+    "mediaGeral" : 71.65614123055555,
+    "mediaPico" : 72.61517538833158,
+    "uptimeTotal" : 109658.0,
+    "uptimePico" : 80234.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2024-06",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "disk_usage_gb",
+    "mediaGeral" : 57.22651887291666,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 109658.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2024-06",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_download",
+    "mediaGeral" : 0.02795134097222222,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 109658.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2024-06",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_upload",
+    "mediaGeral" : 0.0028069659722222227,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 109658.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2024-06",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_usage",
+    "mediaGeral" : 85.37261576180555,
+    "mediaPico" : 123.57841935046979,
+    "uptimeTotal" : 109658.0,
+    "uptimePico" : 61147.0,
+    "contadorAcima95" : 526
+  }, {
+    "data" : "2024-06",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "ram_percent",
+    "mediaGeral" : 31.27114002083333,
+    "mediaPico" : 76.55469083333335,
+    "uptimeTotal" : 109658.0,
+    "uptimePico" : 4469.5,
+    "contadorAcima95" : 1
+  }, {
+    "data" : "2024-06",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "ram_usage_gb",
+    "mediaGeral" : 4.2201059125,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 109658.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2024-07",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "battery_percent",
+    "mediaGeral" : 14.864007526881721,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 94517.5,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2024-07",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "cpu_freq",
+    "mediaGeral" : 3.042931792338709,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 94517.5,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2024-07",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "cpu_percent",
+    "mediaGeral" : 40.21748436491936,
+    "mediaPico" : 88.96394920214098,
+    "uptimeTotal" : 94517.5,
+    "uptimePico" : 11072.0,
+    "contadorAcima95" : 49
+  }, {
+    "data" : "2024-07",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "disk_percent",
+    "mediaGeral" : 72.11330807325268,
+    "mediaPico" : 72.89643902611756,
+    "uptimeTotal" : 94517.5,
+    "uptimePico" : 74763.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2024-07",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "disk_usage_gb",
+    "mediaGeral" : 57.71392418413978,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 94517.5,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2024-07",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_download",
+    "mediaGeral" : 0.027855725134408597,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 94517.5,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2024-07",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_upload",
+    "mediaGeral" : 0.0028171216397849456,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 94517.5,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2024-07",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_usage",
+    "mediaGeral" : 82.68988103830645,
+    "mediaPico" : 123.99682288776212,
+    "uptimeTotal" : 94517.5,
+    "uptimePico" : 48897.5,
+    "contadorAcima95" : 524
+  }, {
+    "data" : "2024-07",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "ram_percent",
+    "mediaGeral" : 32.7154621061828,
+    "mediaPico" : 76.00497067196969,
+    "uptimeTotal" : 94517.5,
+    "uptimePico" : 4151.5,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2024-07",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "ram_usage_gb",
+    "mediaGeral" : 4.331442886424732,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 94517.5,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2024-08",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "battery_percent",
+    "mediaGeral" : 14.663326008064516,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 127050.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2024-08",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "cpu_freq",
+    "mediaGeral" : 3.0119031989247316,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 127050.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2024-08",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "cpu_percent",
+    "mediaGeral" : 39.624023743279565,
+    "mediaPico" : 88.18481007413912,
+    "uptimeTotal" : 127050.0,
+    "uptimePico" : 11658.5,
+    "contadorAcima95" : 41
+  }, {
+    "data" : "2024-08",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "disk_percent",
+    "mediaGeral" : 72.97181133938172,
+    "mediaPico" : 73.56757795796545,
+    "uptimeTotal" : 127050.0,
+    "uptimePico" : 109304.5,
+    "contadorAcima95" : 2
+  }, {
+    "data" : "2024-08",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "disk_usage_gb",
+    "mediaGeral" : 58.29319711827956,
+    "mediaPico" : 202.0850255,
+    "uptimeTotal" : 127050.0,
+    "uptimePico" : 165.0,
+    "contadorAcima95" : 2
+  }, {
+    "data" : "2024-08",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_download",
+    "mediaGeral" : 0.028357936827956995,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 127050.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2024-08",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_upload",
+    "mediaGeral" : 0.002691043010752689,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 127050.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2024-08",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_usage",
+    "mediaGeral" : 84.8589054610215,
+    "mediaPico" : 122.60455669085584,
+    "uptimeTotal" : 127050.0,
+    "uptimePico" : 71691.0,
+    "contadorAcima95" : 556
+  }, {
+    "data" : "2024-08",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "ram_percent",
+    "mediaGeral" : 31.93303898252688,
+    "mediaPico" : 75.31822503208616,
+    "uptimeTotal" : 127050.0,
+    "uptimePico" : 5615.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2024-08",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "ram_usage_gb",
+    "mediaGeral" : 4.346841796370968,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 127050.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2024-09",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "battery_percent",
+    "mediaGeral" : 14.02389138888889,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 100041.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2024-09",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "cpu_freq",
+    "mediaGeral" : 2.999581263194445,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 100041.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2024-09",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "cpu_percent",
+    "mediaGeral" : 39.99636311458333,
+    "mediaPico" : 88.84714135272546,
+    "uptimeTotal" : 100041.0,
+    "uptimePico" : 9508.0,
+    "contadorAcima95" : 47
+  }, {
+    "data" : "2024-09",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "disk_percent",
+    "mediaGeral" : 73.29725265694445,
+    "mediaPico" : 73.51619765297862,
+    "uptimeTotal" : 100041.0,
+    "uptimePico" : 93737.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2024-09",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "disk_usage_gb",
+    "mediaGeral" : 58.70698109652778,
+    "mediaPico" : 228.4704965,
+    "uptimeTotal" : 100041.0,
+    "uptimePico" : 104.0,
+    "contadorAcima95" : 2
+  }, {
+    "data" : "2024-09",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_download",
+    "mediaGeral" : 0.02800232152777778,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 100041.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2024-09",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_upload",
+    "mediaGeral" : 0.0027799611111111104,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 100041.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2024-09",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_usage",
+    "mediaGeral" : 83.14029533055555,
+    "mediaPico" : 124.63649453499947,
+    "uptimeTotal" : 100041.0,
+    "uptimePico" : 52845.0,
+    "contadorAcima95" : 502
+  }, {
+    "data" : "2024-09",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "ram_percent",
+    "mediaGeral" : 31.722058149999995,
+    "mediaPico" : 76.99116991115288,
+    "uptimeTotal" : 100041.0,
+    "uptimePico" : 4248.5,
+    "contadorAcima95" : 1
+  }, {
+    "data" : "2024-09",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "ram_usage_gb",
+    "mediaGeral" : 4.220413713194445,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 100041.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2024-10",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "battery_percent",
+    "mediaGeral" : 13.746355107526881,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 119724.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2024-10",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "cpu_freq",
+    "mediaGeral" : 3.062923754704301,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 119724.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2024-10",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "cpu_percent",
+    "mediaGeral" : 41.18315235147848,
+    "mediaPico" : 89.74979651732228,
+    "uptimeTotal" : 119724.0,
+    "uptimePico" : 13021.0,
+    "contadorAcima95" : 62
+  }, {
+    "data" : "2024-10",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "disk_percent",
+    "mediaGeral" : 73.99693132325268,
+    "mediaPico" : 74.05125623227978,
+    "uptimeTotal" : 119724.0,
+    "uptimePico" : 117964.5,
+    "contadorAcima95" : 1
+  }, {
+    "data" : "2024-10",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "disk_usage_gb",
+    "mediaGeral" : 58.967347467741945,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 119724.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2024-10",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_download",
+    "mediaGeral" : 0.028150681451612907,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 119724.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2024-10",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_upload",
+    "mediaGeral" : 0.002794375672043011,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 119724.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2024-10",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_usage",
+    "mediaGeral" : 85.35817957594087,
+    "mediaPico" : 124.80834699628407,
+    "uptimeTotal" : 119724.0,
+    "uptimePico" : 66719.0,
+    "contadorAcima95" : 560
+  }, {
+    "data" : "2024-10",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "ram_percent",
+    "mediaGeral" : 33.04499253696237,
+    "mediaPico" : 77.44508106818182,
+    "uptimeTotal" : 119724.0,
+    "uptimePico" : 5936.5,
+    "contadorAcima95" : 1
+  }, {
+    "data" : "2024-10",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "ram_usage_gb",
+    "mediaGeral" : 4.458554581989248,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 119724.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2024-11",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "battery_percent",
+    "mediaGeral" : 11.496262638888888,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 120224.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2024-11",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "cpu_freq",
+    "mediaGeral" : 4.236051349305555,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 120224.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2024-11",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "cpu_percent",
+    "mediaGeral" : 56.71963830486111,
+    "mediaPico" : 89.48986719245279,
+    "uptimeTotal" : 120224.0,
+    "uptimePico" : 38310.0,
+    "contadorAcima95" : 128
+  }, {
+    "data" : "2024-11",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "disk_percent",
+    "mediaGeral" : 74.43008926388889,
+    "mediaPico" : 74.43008926388889,
+    "uptimeTotal" : 120224.0,
+    "uptimePico" : 120224.0,
+    "contadorAcima95" : 1
+  }, {
+    "data" : "2024-11",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "disk_usage_gb",
+    "mediaGeral" : 59.517888258333336,
+    "mediaPico" : 277.828324,
+    "uptimeTotal" : 120224.0,
+    "uptimePico" : 98.5,
+    "contadorAcima95" : 1
+  }, {
+    "data" : "2024-11",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_download",
+    "mediaGeral" : 0.02712409374999999,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 120224.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2024-11",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_upload",
+    "mediaGeral" : 0.002826659722222223,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 120224.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2024-11",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_usage",
+    "mediaGeral" : 84.76232708194442,
+    "mediaPico" : 127.35440335031836,
+    "uptimeTotal" : 120224.0,
+    "uptimePico" : 62935.0,
+    "contadorAcima95" : 515
+  }, {
+    "data" : "2024-11",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "ram_percent",
+    "mediaGeral" : 31.872482918750006,
+    "mediaPico" : 75.94967671500001,
+    "uptimeTotal" : 120224.0,
+    "uptimePico" : 4952.5,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2024-11",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "ram_usage_gb",
+    "mediaGeral" : 4.235540145833334,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 120224.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2024-12",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "battery_percent",
+    "mediaGeral" : 11.375609072580643,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 118284.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2024-12",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "cpu_freq",
+    "mediaGeral" : 4.192158532930109,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 118284.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2024-12",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "cpu_percent",
+    "mediaGeral" : 56.21964467607526,
+    "mediaPico" : 89.56837097018601,
+    "uptimeTotal" : 118284.0,
+    "uptimePico" : 38430.5,
+    "contadorAcima95" : 133
+  }, {
+    "data" : "2024-12",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "disk_percent",
+    "mediaGeral" : 74.7763409173387,
+    "mediaPico" : 74.7763409173387,
+    "uptimeTotal" : 118284.0,
+    "uptimePico" : 118284.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2024-12",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "disk_usage_gb",
+    "mediaGeral" : 59.785154260080624,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 118284.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2024-12",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_download",
+    "mediaGeral" : 0.027664057795698915,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 118284.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2024-12",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_upload",
+    "mediaGeral" : 0.0028289858870967745,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 118284.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  }, {
+    "data" : "2024-12",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "net_usage",
+    "mediaGeral" : 82.23976106586022,
+    "mediaPico" : 122.04756295759168,
+    "uptimeTotal" : 118284.0,
+    "uptimePico" : 62022.5,
+    "contadorAcima95" : 527
+  }, {
+    "data" : "2024-12",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "ram_percent",
+    "mediaGeral" : 31.908396273521504,
+    "mediaPico" : 75.48837813257578,
+    "uptimeTotal" : 118284.0,
+    "uptimePico" : 4516.5,
+    "contadorAcima95" : 1
+  }, {
+    "data" : "2024-12",
+    "modelo" : "X100",
+    "empresa" : "amazon-robotics",
+    "metrica" : "ram_usage_gb",
+    "mediaGeral" : 4.273522163306452,
+    "mediaPico" : 0.0,
+    "uptimeTotal" : 118284.0,
+    "uptimePico" : 0.0,
+    "contadorAcima95" : 0
+  } ]
+} ]

@@ -1,12 +1,11 @@
 package sptech.school;
 
-import com.fasterxml.jackson.core.type.TypeReference;
-import com.fasterxml.jackson.databind.ObjectMapper;
-
 import java.io.*;
 import java.nio.file.Files;
+import java.nio.file.Paths;
 import java.util.*;
-import java.util.stream.Collectors;
+import com.fasterxml.jackson.core.type.TypeReference;
+import com.fasterxml.jackson.databind.ObjectMapper;
 
 public class MediaMensalLocalProcessor {
 
@@ -32,13 +31,14 @@ public class MediaMensalLocalProcessor {
             String nomeSemExtensao = nomeArquivo.replace(".json", "");
             String[] partesNome = nomeSemExtensao.split("_");
 
-            if (partesNome.length < 3) {
-                System.out.println("Nome de arquivo inválido (esperado: media_<empresa>_<YYYY-MM-DD>.json): " + nomeArquivo);
+            if (partesNome.length < 4) {
+                System.out.println("Nome de arquivo inválido (esperado: media_<empresa>_<modelo>_<YYYY-MM-DD>.json): " + nomeArquivo);
                 continue;
             }
 
             String empresa = partesNome[1];
-            String dataCompleta = partesNome[2];
+            String modelo = partesNome[2];
+            String dataCompleta = partesNome[3];
 
             if (dataCompleta.length() < 7) {
                 System.out.println("Data no nome do arquivo está malformada: " + nomeArquivo);
@@ -110,19 +110,20 @@ public class MediaMensalLocalProcessor {
             mediaMensal.setUptimePico(uptimePico);
             mediaMensal.setContadorAcima95(contadorAcima95);
 
-            // Agrupa por empresa + mês
-            String chaveEmpresaMes = empresa + "|" + anoMes;
+            // Agrupa por empresa + modelo + mês
+            String chaveEmpresaMes = empresa + "|" + modelo + "|" + anoMes;
             resultadoPorEmpresaMes.computeIfAbsent(chaveEmpresaMes, k -> new ArrayList<>()).add(mediaMensal);
         }
 
-// Salvar um JSON por empresa + mês
+        // Salvar um JSON por empresa + modelo + mês
         for (Map.Entry<String, List<MediaMensal>> entry : resultadoPorEmpresaMes.entrySet()) {
             String[] partes = entry.getKey().split("\\|");
             String empresa = partes[0];
-            String anoMes = partes[1];
+            String modelo = partes[1];
+            String anoMes = partes[2];
             List<MediaMensal> dados = entry.getValue();
 
-            String nomeArquivoSaida = PASTA_SAIDA + "/" + empresa + "_" + anoMes + "_media-mensal.json";
+            String nomeArquivoSaida = PASTA_SAIDA + "/" + empresa + "_" + modelo + "_" + anoMes + "_media-mensal.json";
             try {
                 objectMapper.writeValue(new File(nomeArquivoSaida), dados);
                 System.out.println("Média mensal salva: " + nomeArquivoSaida);

@@ -1,17 +1,25 @@
 package sptech.school;
 
-import java.io.*;
-import java.nio.file.Files;
-import java.nio.file.Paths;
-import java.util.*;
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
+import com.fasterxml.jackson.databind.SerializationFeature; // Para JSON "bonito" (opcional)
+
+import java.io.File;
+import java.io.FileOutputStream;
+import java.nio.file.Paths;
+import java.util.*;
+import java.util.stream.Collectors;
 
 public class ProcessamentoAnualLocal {
 
     private static final String PASTA_ENTRADA = "dados-entrada";
     private static final String PASTA_SAIDA = "saida-local";
-    private static final ObjectMapper objectMapper = new ObjectMapper();
+    private static final String SEPARADOR_CHAVE = "|";
+    private static final int MESES_A_MANTER = 48;
+    private static final String SUFIXO_ARQUIVO_SAIDA = "_4-anos-media-recente.json";
+
+    private static final ObjectMapper objectMapper = new ObjectMapper()
+            .enable(SerializationFeature.INDENT_OUTPUT);
 
     public static void main(String[] args) {
         File pastaEntrada = new File(PASTA_ENTRADA);
@@ -22,34 +30,21 @@ public class ProcessamentoAnualLocal {
             return;
         }
 
-        // Mapa para agrupar dados: empresa|modelo -> lista MediaMensal
-        Map<String, List<MediaMensal>> mediasPorEmpresaModelo = new HashMap<>();
+        Map<String, List<MediaMensal>> dadosAgrupados = new HashMap<>();
 
         for (File arquivo : arquivos) {
             System.out.println("Lendo arquivo: " + arquivo.getName());
             try {
-                // Extrair empresa do nome do arquivo (exemplo: "empresa_algumaCoisa.json")
-                String nomeArquivo = arquivo.getName();
-                String empresa = nomeArquivo.split("_")[0];
-                if (empresa == null || empresa.isEmpty()) {
-                    System.err.println("Não foi possível extrair empresa do arquivo: " + nomeArquivo);
-                    continue;
-                }
-
-                // Ler dados do arquivo
-                List<MediaMensal> mediasDoArquivo = objectMapper.readValue(
-                        arquivo, new TypeReference<List<MediaMensal>>() {});
-
+                List<MediaMensal> mediasDoArquivo = objectMapper.readValue(arquivo, new TypeReference<>() {});
                 System.out.println("Lidos " + mediasDoArquivo.size() + " registros de " + arquivo.getName());
 
-                // Agrupar no mapa geral
                 for (MediaMensal media : mediasDoArquivo) {
                     if (media.getEmpresa() == null || media.getModelo() == null || media.getData() == null) {
                         System.err.println("Registro com campos nulos em " + arquivo.getName() + ", pulando");
                         continue;
                     }
-                    String chave = media.getEmpresa() + "|" + media.getModelo();
-                    mediasPorEmpresaModelo.computeIfAbsent(chave, k -> new ArrayList<>()).add(media);
+                    String chave = media.getEmpresa() + SEPARADOR_CHAVE + media.getModelo();
+                    dadosAgrupados.computeIfAbsent(chave, k -> new ArrayList<>()).add(media);
                 }
             } catch (Exception e) {
                 System.err.println("Erro ao processar arquivo " + arquivo.getName() + ": " + e.getMessage());
@@ -57,53 +52,62 @@ public class ProcessamentoAnualLocal {
             }
         }
 
-        // Agora temos todos os dados agrupados, vamos gerar a lista final de MediaAnualPorModelo para cada empresa
-        // Mapa empresa -> lista de MediaAnualPorModelo
-        Map<String, List<MediaAnualPorModelo>> saidaPorEmpresa = new HashMap<>();
+        Map<String, List<MediaAnualPorModelo>> saidaPorEmpresaEModelo = new HashMap<>();
 
-        for (Map.Entry<String, List<MediaMensal>> entry : mediasPorEmpresaModelo.entrySet()) {
+        for (Map.Entry<String, List<MediaMensal>> entry : dadosAgrupados.entrySet()) {
             String chave = entry.getKey();
-            List<MediaMensal> listaMensais = entry.getValue();
+            List<MediaMensal> todasAsMedias = entry.getValue();
 
-            // Ordenar por data e limitar a 48 meses
-            listaMensais.sort(Comparator.comparing(MediaMensal::getData));
-            if (listaMensais.size() > 48) {
-                listaMensais.subList(0, listaMensais.size() - 48).clear();
-            }
+            List<String> mesesUnicos = todasAsMedias.stream()
+                    .map(MediaMensal::getData)
+                    .distinct()
+                    .sorted(Comparator.reverseOrder())
+                    .limit(MESES_A_MANTER)
+                    .collect(Collectors.toList());
 
-            String[] partesChave = chave.split("\\|");
+            Set<String> mesesParaManter = new HashSet<>(mesesUnicos);
+
+            List<MediaMensal> mediasFiltradas = todasAsMedias.stream()
+                    .filter(media -> mesesParaManter.contains(media.getData()))
+                    .sorted(Comparator.comparing(MediaMensal::getData)
+                            .thenComparing(MediaMensal::getMetrica))
+                    .collect(Collectors.toList());
+
+            System.out.printf("Processando chave '%s': %d registros filtrados para os %d meses mais recentes.%n",
+                    chave, mediasFiltradas.size(), mesesParaManter.size());
+
+            String[] partesChave = chave.split("\\" + SEPARADOR_CHAVE);
             if (partesChave.length < 2) continue;
             String empresa = partesChave[0];
             String modelo = partesChave[1];
 
-            MediaAnualPorModelo anual = new MediaAnualPorModelo();
-            anual.setEmpresa(empresa);
-            anual.setModelo(modelo);
-            anual.setMediasMensais(listaMensais);
+            MediaAnualPorModelo relatorio = new MediaAnualPorModelo();
+            relatorio.setEmpresa(empresa);
+            relatorio.setModelo(modelo);
+            relatorio.setMediasMensais(mediasFiltradas);
 
-            saidaPorEmpresa.computeIfAbsent(empresa, k -> new ArrayList<>()).add(anual);
+            saidaPorEmpresaEModelo.computeIfAbsent(chave, k -> new ArrayList<>()).add(relatorio);
         }
 
-        // Salvar arquivos por empresa
-        for (Map.Entry<String, List<MediaAnualPorModelo>> entry : saidaPorEmpresa.entrySet()) {
-            String empresa = entry.getKey();
-            List<MediaAnualPorModelo> listaAnual = entry.getValue();
+        for (Map.Entry<String, List<MediaAnualPorModelo>> entry : saidaPorEmpresaEModelo.entrySet()) {
+            String chave = entry.getKey();
+            String[] partesChave = chave.split("\\" + SEPARADOR_CHAVE);
+            String empresa = partesChave[0];
+            String modelo = partesChave[1];
+
+            List<MediaAnualPorModelo> dadosConsolidados = entry.getValue();
 
             try {
-                // Serializar resultado
-                byte[] json = objectMapper.writeValueAsBytes(listaAnual);
+                byte[] json = objectMapper.writeValueAsBytes(dadosConsolidados);
 
-                // Criar pasta saída empresa
-                File pastaEmpresa = Paths.get(PASTA_SAIDA, empresa).toFile();
+                File pastaEmpresa = Paths.get(PASTA_SAIDA, empresa, modelo).toFile();
                 if (!pastaEmpresa.exists()) pastaEmpresa.mkdirs();
 
-                // Nome do arquivo consolidado
-                File arquivoSaida = new File(pastaEmpresa, empresa + "_4-anos_medias-4-anos.json");
+                File arquivoSaida = new File(pastaEmpresa, empresa + "_" + modelo + SUFIXO_ARQUIVO_SAIDA);
 
                 try (FileOutputStream fos = new FileOutputStream(arquivoSaida)) {
                     fos.write(json);
                 }
-
                 System.out.println("Arquivo consolidado salvo em: " + arquivoSaida.getPath());
 
             } catch (Exception e) {
@@ -113,4 +117,3 @@ public class ProcessamentoAnualLocal {
         }
     }
 }
-
